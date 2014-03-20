@@ -1,0 +1,417 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: GenericAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: a04fe536d65e2425ebc5ac096dc8da20, type: 2}
+  sprites:
+  - name: Empty
+    outer:
+      serializedVersion: 2
+      x: 485
+      y: 510
+      width: 2
+      height: 2
+    inner:
+      serializedVersion: 2
+      x: 485
+      y: 510
+      width: 2
+      height: 2
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_x
+    outer:
+      serializedVersion: 2
+      x: 235
+      y: 3
+      width: 99
+      height: 90
+    inner:
+      serializedVersion: 2
+      x: 235
+      y: 3
+      width: 99
+      height: 90
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button
+    outer:
+      serializedVersion: 2
+      x: 235
+      y: 232
+      width: 263
+      height: 68
+    inner:
+      serializedVersion: 2
+      x: 285
+      y: 232
+      width: 163
+      height: 68
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_down
+    outer:
+      serializedVersion: 2
+      x: 235
+      y: 163
+      width: 263
+      height: 68
+    inner:
+      serializedVersion: 2
+      x: 285
+      y: 163
+      width: 163
+      height: 68
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_x_down
+    outer:
+      serializedVersion: 2
+      x: 409
+      y: 72
+      width: 99
+      height: 90
+    inner:
+      serializedVersion: 2
+      x: 409
+      y: 72
+      width: 99
+      height: 90
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_music
+    outer:
+      serializedVersion: 2
+      x: 41
+      y: 28
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 41
+      y: 28
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_sound
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 28
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 28
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_retrylevel
+    outer:
+      serializedVersion: 2
+      x: 174
+      y: 97
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 174
+      y: 97
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_exitgame
+    outer:
+      serializedVersion: 2
+      x: 470
+      y: 317
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 470
+      y: 317
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_moredisney
+    outer:
+      serializedVersion: 2
+      x: 470
+      y: 358
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 470
+      y: 358
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_about
+    outer:
+      serializedVersion: 2
+      x: 444
+      y: 431
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 444
+      y: 431
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_play
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 399
+      width: 221
+      height: 113
+    inner:
+      serializedVersion: 2
+      x: 55
+      y: 399
+      width: 111
+      height: 113
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_play_down
+    outer:
+      serializedVersion: 2
+      x: 222
+      y: 399
+      width: 221
+      height: 113
+    inner:
+      serializedVersion: 2
+      x: 277
+      y: 399
+      width: 111
+      height: 113
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_missions_down
+    outer:
+      serializedVersion: 2
+      x: 235
+      y: 94
+      width: 173
+      height: 68
+    inner:
+      serializedVersion: 2
+      x: 270
+      y: 94
+      width: 103
+      height: 68
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_button_missions
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 69
+      width: 173
+      height: 68
+    inner:
+      serializedVersion: 2
+      x: 35
+      y: 69
+      width: 103
+      height: 68
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: menu_icon_nextlevel
+    outer:
+      serializedVersion: 2
+      x: 444
+      y: 472
+      width: 40
+      height: 40
+    inner:
+      serializedVersion: 2
+      x: 444
+      y: 472
+      width: 40
+      height: 40
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: Logo_Bravo
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 138
+      width: 210
+      height: 65
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 138
+      width: 210
+      height: 65
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: 360login_button_glow
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 204
+      width: 234
+      height: 96
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 204
+      width: 234
+      height: 96
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: start_game_button
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 301
+      width: 234
+      height: 97
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 301
+      width: 234
+      height: 97
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .010309278
+    paddingBottom: 0
+  - name: 360login_button
+    outer:
+      serializedVersion: 2
+      x: 235
+      y: 302
+      width: 234
+      height: 96
+    inner:
+      serializedVersion: 2
+      x: 235
+      y: 302
+      width: 234
+      height: 96
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

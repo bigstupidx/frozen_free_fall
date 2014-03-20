@@ -1,0 +1,655 @@
+<entries>
+<entry name="LIVES_NOTIFICATION_TITLE">Spiele &quot;Free Fall&quot;</entry>
+<entry name="END_SHORT_WIN">Gut 
+gemacht!</entry>
+<entry name="ABOUT_TITLE">Die Eiskönigin
+Free Fall</entry>
+<entry name="TUTORIAL_ITEM_TOKENS">Du erhältst
+2 kostenlose Boni!</entry>
+<entry name="LEVEL_COMPANION">Dein Begleiter</entry>
+<entry name="TUTORIAL_CARROT_ITEM">Tipp Svens Karotte an, um
+9 zufällige Eiskristalle
+zu zerschlagen. &lt;TOKEN&gt;</entry>
+<entry name="HELP_COMBOS">Kombiniere Boni
+zu mächtigen
+Effekten.</entry>
+<entry name="STORE_DISABLED_TITLE">Deaktiviert</entry>
+<entry name="GAME_TIME">Zeit</entry>
+<entry name="UNLOCK_KRISTOFF_ICE_AXE">Glückwunsch! Du hast
+Kristoff und seinen Eisaxt-
+Bonus freigeschaltet!</entry>
+<entry name="PLAY_AGAIN">Erneut spielen</entry>
+<entry name="ON">An</entry>
+<entry name="TUTORIAL_ICEBERG">Kombiniere T- oder L-
+förmige Farben zu einem
+Eisberg! Kombiniere ihn
+und zerschlage alle 
+Kristalle um ihn herum.</entry>
+<entry name="CREDITS_DISNEY_TITLES">PRODUCTION
+
+Managing Producer
+
+
+Technical Director
+
+
+Executive Producer
+
+
+MARKETING
+
+Director, Mobile
+Product Marketing
+
+
+Manager, Mobile
+Product Marketing
+
+
+
+CENTRAL CREATIVE
+
+Director, Games
+Content Development
+
+
+Director, Art &amp; Design
+
+
+Senior Manager,
+Game Design
+
+
+Lead Artist
+
+
+Coordinator, Games
+Content Development
+
+
+Associate Artist
+
+
+Undergraduate, Art Intern
+
+
+Graduate, Graphic
+Design Intern
+
+
+QUALITY ASSURANCE
+
+Director, Mobile QA &amp;
+Live Operations
+
+
+QA Supervisor
+
+
+QA Project Lead
+
+
+QA Testers
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</entry>
+<entry name="TUTORIAL_TAP">Antippen zum Fortfahren.</entry>
+<entry name="CARROT_DESCRIPTION">Jede Karotte zerschlägt
+9 zufällige Blöcke.</entry>
+<entry name="ITEM_TOKEN_DESCRIPTION">Verwende Boni mit
+jedem ausgewählten
+Charakter.</entry>
+<entry name="TROLL_MAGIC_DESCRIPTION">Jeder Trollzauber
+wird zu einem zufälligen
+Bonus oder Objekt.</entry>
+<entry name="ABOUT_CUSTOMER_SUPPORT">Kundendienst</entry>
+<entry name="FINISH_GAME_TITLE">Toll!</entry>
+<entry name="WIN_SHORT_FREE_FALL">Free Fall!</entry>
+<entry name="TROLL_MAGIC">Trollzauber</entry>
+<entry name="UNLOCK_HOURGLASS">Glückwunsch! 
+Du hast die Sanduhr
+freigeschaltet!</entry>
+<entry name="UNLOCK_SVEN_CARROT">Glückwunsch! Du hast
+Sven und seinen Karotten-
+Bonus freigeschaltet!</entry>
+<entry name="LOSE_SNOW">Du hast nicht den 
+ganzen Schnee beseitigt.</entry>
+<entry name="FACEBOOK_LOGIN">Verbinden</entry>
+<entry name="LIFE_LOST">Du verlierst 1 Leben.</entry>
+<entry name="TUTORIAL_COMBINE">Die Kombination zweier
+Boni ergibt einen mächtigen
+Effekt. Versuche es nun mit
+Windhauch und Eisberg.</entry>
+<entry name="EXIT_CONFIRMATION">Anwendung schließen?</entry>
+<entry name="GAME_OBJECTIVE_TARGET_TILES">Eliminiere alle 
+benötigten Eiskristalle!</entry>
+<entry name="ABOUT_PUBLISHER">Herausgegeben von 
+Disney Mobile
+©2013 Disney</entry>
+<entry name="CREDITS_MOBILITY">MOBILITY GAMES</entry>
+<entry name="GAME_OBJECTIVE_SNOW">Entferne den 
+ganzen Schnee
+vom Spielbrett!</entry>
+<entry name="GAME_OBJECTIVE_SCORE">Erreiche die Ziel-
+punktzahl, solange
+du noch ZÜGE hast!</entry>
+<entry name="LOSE_SCORE">Du hast die
+Zielpunktzahl
+nicht erreicht.</entry>
+<entry name="SOUND">Ton:</entry>
+<entry name="ABOUT_PRIVACY_POLICY">Datenschutz</entry>
+<entry name="GLACIERS">Gletscher</entry>
+<entry name="LOADING">Lädt ...</entry>
+<entry name="TUTORIAL_ICE_AXE_ITEM">Tipp Kristoffs Eisaxt
+an, um 6 zufällige
+Eiskristalle mit Frost
+zu zerschlagen. &lt;TOKEN&gt;</entry>
+<entry name="GAME_SCORE">Punkte</entry>
+<entry name="ABOUT_DEVELOPER">Entwickelt von</entry>
+<entry name="HELP_SPECIALS">Kombiniere 4 oder 5
+Eiskristalle in
+verschiedenen Formen zu
+einem Windhauch,
+Eisberg oder Gletscher.</entry>
+<entry name="SWORD">Schwert</entry>
+<entry name="BEST">Top</entry>
+<entry name="HELP_WINDCHILL">4 in einer Linie = Windhauch</entry>
+<entry name="LEVEL_NAME">Level</entry>
+<entry name="STORE_PURCHASED_TITLE">Erfolg</entry>
+<entry name="LOSE_CONTINUE_MOVES">1 Schneeball 
+(+5 Züge) verwenden,
+um weiterzuspielen?</entry>
+<entry name="GET_MORE_TOKENS">Hol dir weitere Boni</entry>
+<entry name="CREDITS">MITWIRKENDE</entry>
+<entry name="LOSE_TARGET_TILES">Nicht alle nötigen
+Eiskristalle zerstört.</entry>
+<entry name="TROLL_MAGICS">Trollzauber</entry>
+<entry name="LEVEL_TARGET_SCORE">Zielpunktzahl:</entry>
+<entry name="CREDITS_MOBILITY_TITLES">Executive Producer
+
+
+Game Producer
+
+
+Technical Lead
+
+
+Lead Artist
+
+
+Technical Artist
+
+
+Animation Lead
+
+
+Programmers
+
+
+
+Artists
+
+
+
+Level Designers
+
+
+
+QA
+
+
+
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY">Anleitung</entry>
+<entry name="NEXT_LEVEL">Nächster Level</entry>
+<entry name="SNOWBALLS">Schneebälle</entry>
+<entry name="CREDITS_DISNEY_NAMES">&lt;SPACE&gt;
+
+
+Ryan Winterholler
+
+
+Binh Nguyen
+
+
+Scott Humphries
+
+
+
+
+
+Patrick W Sager
+
+
+
+Jenn Lim
+Linda Lee
+
+
+
+
+
+Luigi Priore
+
+
+Will Rosas
+
+
+
+Brian Gomez
+
+
+Young Choi
+
+
+
+Siobhan Vanaman
+
+
+Tim Tsang
+
+
+Yannan (Connie) Kang
+
+
+
+Vanessa Luo
+
+
+
+
+
+Marietta Pashayan
+
+
+Natascha A Thomas
+
+
+Bobby Munguia
+
+
+Adam Hale
+Adrian Pitones
+Alen Khanyan
+Belinda Louie
+Carlos Barata
+Carlos Flores
+John Pfund
+Kevin Skorcz
+Rachel Hassid
+
+
+
+Adam Landenberger
+Alex Sherer
+Amir Hematyar
+Amy M Kreutzen
+Angeline Huang
+Brice Bonnet
+Christian Garelli
+Clay Barlow
+Corey Valencia
+Cyril Bornette
+Daniel Plant
+Dorothee Pinlet
+Eric Rodriguez
+Flavia Timiani
+Greg Hayes
+Jason Blanco
+Jeremy Besson
+Jerome B Turnbull
+Johnathan Thompson
+Josh Valensi
+Kasim Rehman
+Katrina Tough
+Kelly White
+Manuel Germain Kedi
+Manuel Redruello
+Matt Bergeron
+Megan Thompson
+Michael Gortz
+Mihai Pohontu
+Molly Petullo
+Nicholas Gallant
+Pam Pilouk
+Patricia Myers
+Peter Geiss
+Phillip Batch
+Robert Kalutkiewicz
+Shin Park
+Sonia Souto-Sieiro
+Stephanie Martinelli
+Yousuf Bhaijee
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY_TITLE">So geht&apos;s ...</entry>
+<entry name="SCORE_SEPARATOR">.</entry>
+<entry name="LOSE_TIME">Zeit abgelaufen</entry>
+<entry name="SWORDS">Schwerter</entry>
+<entry name="REMAINING_TOKENS">Verbleibende Boni</entry>
+<entry name="LINK_CONFIRMATION">Link öffnen und
+Spiel verlassen?</entry>
+<entry name="TUTORIAL_MULTIPLIER">TIPP: Erreichst du 
+die Zielpunktzahl nicht?
+Kombiniere schnell und
+vervielfache deine Punkte.</entry>
+<entry name="GAME_OBJECTIVE_DROP_TILES">Lasse Spezial-objekte
+nach unten fallen!</entry>
+<entry name="OFF">Aus</entry>
+<entry name="MAP_OBJECTIVE_FROST">Entferne Frost</entry>
+<entry name="TORCHES">Fackeln</entry>
+<entry name="END_SHORT_WIN_GREAT">Toll!</entry>
+<entry name="YES">Ja</entry>
+<entry name="CONGRATULATIONS">Glückwunsch!</entry>
+<entry name="LOST_LIFE">Du verlierst
+1 Leben.</entry>
+<entry name="ICE_AXE">Eisaxt</entry>
+<entry name="STORE_FAILED_TEXT">Kauf fehlgeschlagen. Überprüfe 
+die Netzwerkeinstellungen und 
+versuche es noch einmal.</entry>
+<entry name="UNLOCK_PABBIE_TROLL_MAGIC">Glückwunsch! Du hast Granpabbie
+und seinen Trollzauber-Bonus
+freigeschaltet!</entry>
+<entry name="PURCHASE">Kaufen</entry>
+<entry name="STORE_PURCHASED_TEXT">Glückwunsch, dein Kauf war
+erfolgreich!</entry>
+<entry name="TUTORIAL_FREEZER">Mit jeder Runde, in
+der du keinen Raureif
+zerschlägst, breitet er sich
+um einen weiteren Block aus.</entry>
+<entry name="LEVEL_OBJECTIVE_TARGET_TILES">Zerstöre Zielblöcke</entry>
+<entry name="SWORD_DESCRIPTION">Jedes Schwert zerschlägt 
+Blöcke, wenn du über
+das Spielbrett wischst.</entry>
+<entry name="STORE_DISABLED_TEXT">In-App-Käufe deaktiviert. Aktiviere
+sie in den Geräte-Einstellungen
+ und versuche es noch einmal.</entry>
+<entry name="STORE_WAITING_TITLE">Wartet</entry>
+<entry name="CARROTS">Karotten</entry>
+<entry name="HELP_OBJECTIVES">Erreiche das Ziel jedes
+Levels und schlage die
+Zielpunktzahl, um die
+Handlung weiterzuspielen
+und neue Level freizuschalten.</entry>
+<entry name="TUTORIAL_SNOW_TILE">Zerschlage Schnee, indem
+du Blöcke neben ihm
+kombinierst. Entferne
+den ganzen Schnee
+vom Spielbrett!</entry>
+<entry name="LIVES_NOTIFICATION_MESSAGE">Du hast ein volles Pack Leben. Schau wieder vorbei und SPIELE!</entry>
+<entry name="TUTORIAL_SNOWBALL_ITEM">Tipp den Schneeball an,
+um 5 Extra-Züge zu
+erhalten. &lt;FREE_SNOWBALLS&gt;</entry>
+<entry name="GAME_OBJECTIVE_FROST">Entferne den
+ganzen Frost
+vom Spielbrett!</entry>
+<entry name="APP_RATE_BUTTON_NEVER">Nie bewerten</entry>
+<entry name="ABOUT_TERMS_OF_USE">Nutzungsbedingungen</entry>
+<entry name="HELP_ICEBERG">T- oder L-Form = Eisberg</entry>
+<entry name="ABOUT_VERSION">Version 1.0.0</entry>
+<entry name="GLACIER">Gletscher</entry>
+<entry name="TUTORIAL_ICE_PICK_ITEM">Tipp den Eispickel an und
+wähle einen Eiskristall, um
+ihn zu zerschlagen.
+&lt;FREE_ICE_PICKS&gt;</entry>
+<entry name="END_SHORT_LOSE">Schade!</entry>
+<entry name="LOSE_MOVES">Kein Zug mehr!</entry>
+<entry name="MAP_OBJECTIVE_TARGET_TILES">Eliminierung</entry>
+<entry name="CREDITS_MOBILITY_NAMES">&lt;SPACE&gt;
+Constantin Marcu
+
+
+Catalin Marcu
+
+
+Florin Covit
+
+
+Petru Neacsu
+
+
+Alexandru Boaca
+
+
+Ciprian Adumitroaei
+
+
+Andrei Miorcaneanu
+Juan Jose Lopez Cucurella
+
+
+Ioan Chirita
+Lidia Macovei
+
+
+Andrei Patrascu
+Iulius Maxim
+
+
+Paul Marcu
+Ada Iacob
+Mihai Simion
+&lt;SPACE&gt;</entry>
+<entry name="TUTORIAL_FREE_SNOWBALLS">Du erhältst 2
+kostenlose Schneebälle!</entry>
+<entry name="GAME_OBJECTIVE_SCORE_TIME">Erreiche die Ziel-
+punktzahl vor
+Ablauf der ZEIT!</entry>
+<entry name="GAME_MOVES">Züge</entry>
+<entry name="TUTORIAL_FREE_ICE_PICKS">Du erhältst 2 kostenlose
+Eispickel!</entry>
+<entry name="ICE_AXE_DESCRIPTION">Jede Eisaxt zerschlägt
+6 zufällige Blöcke.</entry>
+<entry name="TUTORIAL_GLACIER">Kombiniere eine 5er-Reihe zu
+einem Gletscher! Kombiniere
+ihn und zerstöre gleichfarbige
+benachbarte Eiskristalle.</entry>
+<entry name="TUTORIAL_SWORD_ITEM">Tipp Hans&apos; Schwert an
+und wische über das
+Spielbrett, um Eiskristalle
+zu zerschlagen. &lt;TOKEN&gt;</entry>
+<entry name="ICE_PICK_DESCRIPTION">Jeder Eispickel
+zerschlägt 1 
+ausgewählten Block.</entry>
+<entry name="RESHUFFLE_MESSAGE">Keine Züge 
+mehr. Es wird 
+neu gemischt!</entry>
+<entry name="END_SHORT_WIN_GOOD">Exzellent!</entry>
+<entry name="HOURGLASS_DESCRIPTION">1 Sanduhr
+=
+15 Sekunden</entry>
+<entry name="FINISH_GAME_BUTTON">Genial!</entry>
+<entry name="ABOUT">Über</entry>
+<entry name="TUTORIAL_HOURGLASS_ITEM">Tipp die Sanduhr an,
+um 15 Extra-Sekunden
+zu erhalten. &lt;FREE_HOURGLASSES&gt;</entry>
+<entry name="TUTORIAL_HOT_CHOCOLATE_ITEM">Tipp Olafs Heißen Kakao
+und einen Eiskristall an,
+um aus ihm einen
+benötigten Eiskristall
+zu machen. &lt;TOKEN&gt;</entry>
+<entry name="ICE_PICKS">Eispickel</entry>
+<entry name="MAP_OBJECTIVE_SCORE">Zielpunktzahl</entry>
+<entry name="UNLOCK_SNOWBALL">Glückwunsch! Du
+hast den Schneeball
+freigeschaltet!</entry>
+<entry name="EXIT">Spiel beenden</entry>
+<entry name="HELP_MATCH">Berühre einen Eiskristall und
+verschiebe ihn mit dem Finger.
+Kombiniere 3 Eiskristalle derselben
+Farbe, um sie zu zerschlagen und
+Punkte zu erhalten.</entry>
+<entry name="HELP_MULTIPLIER">TIPP: Erreichst du
+die Zielpunktzahl
+nicht? Kombiniere
+schnell und
+vervielfache deine
+Punkte.</entry>
+<entry name="HELP_GLACIER">5 in einer Reihe = Gletscher</entry>
+<entry name="APP_RATE_MESSAGE">Wenn dir &quot;Die Eiskönigin Free Fall&quot; gefällt, nimm dir bitte einen Moment Zeit für eine Bewertung.</entry>
+<entry name="GAME_SECONDS">Sekunden</entry>
+<entry name="LOSE_DROP_TILES">Du hast nicht alle 
+Spezialobjekte
+fallen gelassen.</entry>
+<entry name="CARROT">Karotte</entry>
+<entry name="HOT_CHOCOLATE_DESCRIPTION">Jeder Heiße Kakao
+bewirkt irgendetwas.</entry>
+<entry name="HELP_FUN">Viel Spaß!</entry>
+<entry name="LEVEL_OBJECTIVE">Ziel:</entry>
+<entry name="RETRY">Wiederholen</entry>
+<entry name="UNLOCK_ELSA_GLACIER">Glückwunsch! Du hast
+Elsa und ihren Gletscher-
+Bonus freigeschaltet!</entry>
+<entry name="PURCHASES_WARNING_TITLE">IAP Haftungsausschluss</entry>
+<entry name="ICE_PICK">Eispickel</entry>
+<entry name="CONTINUE">Fortfahren</entry>
+<entry name="SNOWBALL">Schneeball</entry>
+<entry name="NO_MORE_MOVES">Keine Züge mehr möglich.
+Nutze einen Bonus!</entry>
+<entry name="FACEBOOK_LOGOUT">Abmelden</entry>
+<entry name="MORE_DISNEY">Mehr Disney</entry>
+<entry name="TORCH">Fackel</entry>
+<entry name="MAP_OBJECTIVE_DROP_TILES">Fallen lassen</entry>
+<entry name="LEVEL_TARGET">Ziel:</entry>
+<entry name="BUY_ITEMS">Weitere Objekte</entry>
+<entry name="TUTORIAL_WINTERCHILL">Kombiniere 4 Farben
+in einer Reihe zu einem 
+Windhauch! Kombiniere ihn
+und er zerschlägt alle 
+Kristalle in seinem Weg!</entry>
+<entry name="GLACIER_DESCRIPTION">Jeder Gletscher
+zerschlägt Blöcke
+der ausgewählten Farbe.</entry>
+<entry name="UNLOCK_HANS_SWORD">Glückwunsch! Du hast 
+Hans und seinen Schwert-
+Bonus freigeschaltet!</entry>
+<entry name="ABOUT_VISIT">Besuche uns auf: 
+http://disney.go.com/index</entry>
+<entry name="STORE_WAITING_TEXT">Wartet auf Store...</entry>
+<entry name="TUTORIAL_LOCKED_TILE">Der Gesperrte Block kann 
+durch Kombination mit
+2 Eiskristallen derselben
+Farbe zerschlagen werden.</entry>
+<entry name="SNOWBALL_DESCRIPTION">1 Schneeball
+=
+5 Züge</entry>
+<entry name="RESET_CONFIRMATION">Spielfortschritt zurücksetzen?</entry>
+<entry name="TUTORIAL_TROLL_MAGIC_ITEM">Tipp Granpabbies
+Trollzauber an und hol
+dir so ein Zufallsobjekt für
+diesen Level. &lt;TOKEN&gt;</entry>
+<entry name="TUTORIAL_FREE_HOURGLASSES">Du erhältst
+2 kostenlose Sanduhren!</entry>
+<entry name="UNLOCK_ICE_PICK">Glückwunsch! Du
+hast den Eispickel
+freigeschaltet!</entry>
+<entry name="LEVEL_CHOOSE_COMPANION">Wähle Begleiter</entry>
+<entry name="STORE_FAILED_TITLE">Fehlgeschlagen</entry>
+<entry name="OUT_OF_LIVES">Neue Leben</entry>
+<entry name="FINISH_GAME_MESSAGE">Du hast alle Level
+beendet! Neue Level
+BALD erhältlich!</entry>
+<entry name="TUTORIAL_TORCH_ITEM">Tipp Annas Fackel an.
+Wähle 8 benachbarte
+Eiskristalle, um sie zu
+zerschlagen. &lt;TOKEN&gt;</entry>
+<entry name="MAP_OBJECTIVE_SNOW">Entferne Schnee</entry>
+<entry name="PURCHASES_WARNING">In Die Eiskönigin Free Fall
+können Zusatzinhalte erworben
+werden. Diese Inhalte kosten
+reales Geld und werden von
+deinem iTunes-Konto abgezogen. 
+Du kannst deine Geräte-
+Einstellungen anpassen, um 
+In-App-Käufe zu aktivieren.</entry>
+<entry name="MUSIC">Musik:</entry>
+<entry name="HOME">Hauptmenü</entry>
+<entry name="TUTORIAL_GLACIER_ITEM">Tipp Elsas Gletscher an.
+Wähle einen Eiskristall,
+um alle derselben Farbe
+zu zerschlagen. &lt;TOKEN&gt;</entry>
+<entry name="CREDITS_DISNEY">DISNEY</entry>
+<entry name="BUTTON_OK">OK</entry>
+<entry name="TORCH_DESCRIPTION">Jede Fackel zerschlägt 
+8 benachbarte Blöcke
+deiner Wahl.</entry>
+<entry name="TUTORIAL_FROST">Zerschlage Frost, indem
+du Blöcke über ihm
+kombinierst. Entferne
+den ganzen Frost vom
+Spielbrett!</entry>
+<entry name="HOT_CHOCOLATES">Heißer Kakao</entry>
+<entry name="MAP_OBJECTIVE_SCORE_TIME">Schlag die Uhr</entry>
+<entry name="APP_RATE_BUTTON_CANCEL">Später erinnern</entry>
+<entry name="APP_RATE_BUTTON_RATE">Diese App bewerten</entry>
+<entry name="ICE_AXES">Eisäxte</entry>
+<entry name="RESET_PROGRESS">Zurücksetzen</entry>
+<entry name="LOSE_CONTINUE_TIME">1 Sanduhr (+15 Sek.)
+verwenden,
+um weiterzuspielen?</entry>
+<entry name="NO">Nein</entry>
+<entry name="UNLOCK_ANNA_TORCH">Glückwunsch! Du hast
+Anna und ihren Fackel-
+Bonus freigeschaltet!</entry>
+<entry name="TUTORIAL_MATCH_3">Ziehe über die Eiskristalle,
+um 3 gleichfarbige
+zu kombinieren!</entry>
+<entry name="LOSE_FROST">Du hast nicht den 
+ganzen Frost beseitigt.</entry>
+<entry name="HOT_CHOCOLATE">Heißer Kakao</entry>
+<entry name="MENU_PLAY">Spielen</entry>
+<entry name="UNLOCK_OLAF_HOT_CHOCOLATE">Glückwunsch!
+Du hast Olaf und seinen
+Heißer-Kakao-Bonus
+freigeschaltet!</entry>
+<entry name="APP_RATE_TITLE">Bewerte &quot;Die Eiskönigin Free Fall&quot;</entry>
+</entries>

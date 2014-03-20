@@ -1,0 +1,507 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: MFP_MALL
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: d849aa724343a4408ba372768284b717, type: 2}
+  sprites:
+  - name: mfp_buy_button
+    outer:
+      serializedVersion: 2
+      x: 854
+      y: 607
+      width: 136
+      height: 56
+    inner:
+      serializedVersion: 2
+      x: 854
+      y: 607
+      width: 136
+      height: 56
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_mall_item_board
+    outer:
+      serializedVersion: 2
+      x: 551
+      y: 652
+      width: 154
+      height: 146
+    inner:
+      serializedVersion: 2
+      x: 551
+      y: 652
+      width: 154
+      height: 146
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_diamond1
+    outer:
+      serializedVersion: 2
+      x: 551
+      y: 615
+      width: 51
+      height: 36
+    inner:
+      serializedVersion: 2
+      x: 551
+      y: 615
+      width: 51
+      height: 36
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .0196078438
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_diamond2
+    outer:
+      serializedVersion: 2
+      x: 603
+      y: 625
+      width: 35
+      height: 26
+    inner:
+      serializedVersion: 2
+      x: 603
+      y: 625
+      width: 35
+      height: 26
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .0285714287
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_mall_tab4
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 519
+      width: 478
+      height: 85
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 519
+      width: 478
+      height: 85
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0117647061
+    paddingBottom: 0
+  - name: mfp_mall_tab3
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 433
+      width: 478
+      height: 85
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 433
+      width: 478
+      height: 85
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0117647061
+    paddingBottom: 0
+  - name: mfp_mall_tab1
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 347
+      width: 478
+      height: 85
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 347
+      width: 478
+      height: 85
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0117647061
+    paddingBottom: 0
+  - name: mfp_mall_tab2
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 261
+      width: 478
+      height: 85
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 261
+      width: 478
+      height: 85
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0117647061
+    paddingBottom: 0
+  - name: mfp_mall_item_iceblock_board
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 49
+      width: 183
+      height: 330
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 49
+      width: 183
+      height: 330
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .00546448072
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_mall_tab_shine
+    outer:
+      serializedVersion: 2
+      x: 289
+      y: 173
+      width: 126
+      height: 66
+    inner:
+      serializedVersion: 2
+      x: 289
+      y: 173
+      width: 126
+      height: 66
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_hud
+    outer:
+      serializedVersion: 2
+      x: 184
+      y: 240
+      width: 224
+      height: 70
+    inner:
+      serializedVersion: 2
+      x: 184
+      y: 240
+      width: 224
+      height: 70
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_mall_main_board
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 605
+      width: 550
+      height: 419
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 605
+      width: 550
+      height: 419
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .00238663494
+    paddingBottom: 0
+  - name: market_button
+    outer:
+      serializedVersion: 2
+      x: 706
+      y: 648
+      width: 147
+      height: 150
+    inner:
+      serializedVersion: 2
+      x: 706
+      y: 648
+      width: 147
+      height: 150
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: DIAMOND_PRODUCT_4_PIC
+    outer:
+      serializedVersion: 2
+      x: 854
+      y: 664
+      width: 111
+      height: 134
+    inner:
+      serializedVersion: 2
+      x: 854
+      y: 664
+      width: 111
+      height: 134
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: DIAMOND_PRODUCT_3_PIC
+    outer:
+      serializedVersion: 2
+      x: 184
+      y: 119
+      width: 104
+      height: 120
+    inner:
+      serializedVersion: 2
+      x: 184
+      y: 119
+      width: 104
+      height: 120
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: DIAMOND_PRODUCT_1_PIC
+    outer:
+      serializedVersion: 2
+      x: 369
+      y: 5
+      width: 92
+      height: 63
+    inner:
+      serializedVersion: 2
+      x: 369
+      y: 5
+      width: 92
+      height: 63
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: DIAMOND_PRODUCT_2_PIC
+    outer:
+      serializedVersion: 2
+      x: 184
+      y: 26
+      width: 102
+      height: 92
+    inner:
+      serializedVersion: 2
+      x: 184
+      y: 26
+      width: 102
+      height: 92
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_notice_top
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 380
+      width: 475
+      height: 224
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 380
+      width: 475
+      height: 224
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_notice_botton
+    outer:
+      serializedVersion: 2
+      x: 184
+      y: 311
+      width: 255
+      height: 68
+    inner:
+      serializedVersion: 2
+      x: 184
+      y: 311
+      width: 255
+      height: 68
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_notice_board_top
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 211
+      width: 484
+      height: 49
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 211
+      width: 484
+      height: 49
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_notice_title
+    outer:
+      serializedVersion: 2
+      x: 551
+      y: 799
+      width: 457
+      height: 225
+    inner:
+      serializedVersion: 2
+      x: 551
+      y: 799
+      width: 457
+      height: 225
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: mfp_notice_icon
+    outer:
+      serializedVersion: 2
+      x: 289
+      y: 69
+      width: 79
+      height: 103
+    inner:
+      serializedVersion: 2
+      x: 289
+      y: 69
+      width: 79
+      height: 103
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: market_icon_glow
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 75
+      width: 76
+      height: 78
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 75
+      width: 76
+      height: 78
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: notice_icon_glow
+    outer:
+      serializedVersion: 2
+      x: 369
+      y: 69
+      width: 79
+      height: 103
+    inner:
+      serializedVersion: 2
+      x: 369
+      y: 69
+      width: 79
+      height: 103
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: buy_button_glow
+    outer:
+      serializedVersion: 2
+      x: 476
+      y: 154
+      width: 136
+      height: 56
+    inner:
+      serializedVersion: 2
+      x: 476
+      y: 154
+      width: 136
+      height: 56
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1

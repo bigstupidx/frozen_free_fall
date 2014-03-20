@@ -1,0 +1,624 @@
+<entries>
+<entry name="LIVES_NOTIFICATION_TITLE">Play Frozen Free Fall</entry>
+<entry name="END_SHORT_WIN">Great job!</entry>
+<entry name="ABOUT_TITLE">Frozen
+Free Fall</entry>
+<entry name="TUTORIAL_ITEM_TOKENS">You get 2 Power-ups
+to try for Free!</entry>
+<entry name="LEVEL_COMPANION">Your Companion</entry>
+<entry name="TUTORIAL_CARROT_ITEM">Tap Sven&apos;s Carrot to break
+9 random Ice Crystals.
+&lt;TOKEN&gt;</entry>
+<entry name="HELP_COMBOS">Combine Power-ups
+to unleash powerful
+effects.</entry>
+<entry name="STORE_DISABLED_TITLE">Disabled</entry>
+<entry name="GAME_TIME">Time</entry>
+<entry name="UNLOCK_KRISTOFF_ICE_AXE">Congratulations! You
+unlocked Kristoff and
+his Ice Axe Power-up!</entry>
+<entry name="PLAY_AGAIN">Play Again</entry>
+<entry name="ON">On</entry>
+<entry name="TUTORIAL_ICEBERG">Match colors in a &quot;T&quot; or &quot;L&quot;
+shape to create an Iceberg!
+Match it to break all Ice
+Crystals around it.</entry>
+<entry name="CREDITS_DISNEY_TITLES">PRODUCTION
+
+Managing Producer
+
+
+Technical Director
+
+
+Executive Producer
+
+
+MARKETING
+
+Director, Mobile
+Product Marketing
+
+
+Manager, Mobile
+Product Marketing
+
+
+
+CENTRAL CREATIVE
+
+Director, Games
+Content Development
+
+
+Director, Art &amp; Design
+
+
+Senior Manager,
+Game Design
+
+
+Lead Artist
+
+
+Coordinator, Games
+Content Development
+
+
+Associate Artist
+
+
+Undergraduate, Art Intern
+
+
+Graduate, Graphic
+Design Intern
+
+
+QUALITY ASSURANCE
+
+Director, Mobile QA &amp;
+Live Operations
+
+
+QA Supervisor
+
+
+QA Project Lead
+
+
+QA Testers
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</entry>
+<entry name="TUTORIAL_TAP">Tap anywhere to skip
+this tutorial.</entry>
+<entry name="CARROT_DESCRIPTION">Each Carrot breaks
+9 random Tiles.</entry>
+<entry name="ITEM_TOKEN_DESCRIPTION">Power-ups can be
+used for any
+selected character.</entry>
+<entry name="TROLL_MAGIC_DESCRIPTION">Each Troll Magic
+transforms into a random
+Power-up or Item.</entry>
+<entry name="ABOUT_CUSTOMER_SUPPORT">Customer Support</entry>
+<entry name="FINISH_GAME_TITLE">Amazing!</entry>
+<entry name="WIN_SHORT_FREE_FALL">Free Fall!</entry>
+<entry name="TROLL_MAGIC">Troll Magic</entry>
+<entry name="UNLOCK_HOURGLASS">Congratulations! You
+unlocked the Hourglass!</entry>
+<entry name="UNLOCK_SVEN_CARROT">Congratulations! You
+unlocked Sven and
+his Carrot Power-up!</entry>
+<entry name="LOSE_SNOW">You didn&apos;t remove
+all the Snow.</entry>
+<entry name="FACEBOOK_LOGIN">Connect</entry>
+<entry name="LIFE_LOST">You lost 1 Life.</entry>
+<entry name="TUTORIAL_COMBINE">Combine 2 Power-ups to
+create a powerful effect. 
+Try it now with the
+Windchill and the Iceberg.</entry>
+<entry name="EXIT_CONFIRMATION">Close application?</entry>
+<entry name="GAME_OBJECTIVE_TARGET_TILES">Eliminate all required
+Ice Crystals!</entry>
+<entry name="ABOUT_PUBLISHER">Published by 
+Disney Mobile
+©2013 Disney</entry>
+<entry name="CREDITS_MOBILITY">MOBILITY GAMES</entry>
+<entry name="GAME_OBJECTIVE_SNOW">Remove all Snow
+from the board!</entry>
+<entry name="GAME_OBJECTIVE_SCORE">Reach the target
+score before you
+run out of MOVES!</entry>
+<entry name="LOSE_SCORE">You didn&apos;t reach
+the target score.</entry>
+<entry name="SOUND">Sound:  </entry>
+<entry name="ABOUT_PRIVACY_POLICY">Privacy Policy</entry>
+<entry name="GLACIERS">Glaciers</entry>
+<entry name="LOADING">Loading...</entry>
+<entry name="TUTORIAL_ICE_AXE_ITEM">Tap Kristoff&apos;s Ice Axe
+to break 6 random
+Ice Crystals.
+&lt;TOKEN&gt;</entry>
+<entry name="GAME_SCORE">Score</entry>
+<entry name="ABOUT_DEVELOPER">Developed by </entry>
+<entry name="HELP_SPECIALS">Match 4 or 5 Ice Crystals
+in different shapes to
+create a Windchill,
+Iceberg, or Glacier.</entry>
+<entry name="SWORD">Sword</entry>
+<entry name="BEST">Best</entry>
+<entry name="HELP_WINDCHILL">4 in line = Windchill</entry>
+<entry name="LEVEL_NAME">Level</entry>
+<entry name="STORE_PURCHASED_TITLE">Success</entry>
+<entry name="LOSE_CONTINUE_MOVES">Use 1 Snowball
+(+5 moves) to
+continue this level?</entry>
+<entry name="GET_MORE_TOKENS">Get More Power-ups</entry>
+<entry name="CREDITS">CREDITS</entry>
+<entry name="LOSE_TARGET_TILES">You didn&apos;t eliminate all
+required Ice Crystals.</entry>
+<entry name="TROLL_MAGICS">Troll Magics</entry>
+<entry name="LEVEL_TARGET_SCORE">Target Score:</entry>
+<entry name="CREDITS_MOBILITY_TITLES">Executive Producer
+
+
+Game Producer
+
+
+Technical Lead
+
+
+Lead Artist
+
+
+Technical Artist
+
+
+Animation Lead
+
+
+Programmers
+
+
+
+Artists
+
+
+
+Level Designers
+
+
+
+QA
+
+
+
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY">How to play</entry>
+<entry name="NEXT_LEVEL">Next Level</entry>
+<entry name="SNOWBALLS">Snowballs</entry>
+<entry name="CREDITS_DISNEY_NAMES">&lt;SPACE&gt;
+
+
+Ryan Winterholler
+
+
+Binh Nguyen
+
+
+Scott Humphries
+
+
+
+
+
+Patrick W Sager
+
+
+
+Jenn Lim
+Linda Lee
+
+
+
+
+
+Luigi Priore
+
+
+Will Rosas
+
+
+
+Brian Gomez
+
+
+Young Choi
+
+
+
+Siobhan Vanaman
+
+
+Tim Tsang
+
+
+Yannan (Connie) Kang
+
+
+
+Vanessa Luo
+
+
+
+
+
+Marietta Pashayan
+
+
+Natascha A Thomas
+
+
+Bobby Munguia
+
+
+Adam Hale
+Adrian Pitones
+Alen Khanyan
+Belinda Louie
+Carlos Barata
+Carlos Flores
+John Pfund
+Kevin Skorcz
+Rachel Hassid
+
+
+
+Adam Landenberger
+Alex Sherer
+Amir Hematyar
+Amy M Kreutzen
+Angeline Huang
+Brice Bonnet
+Christian Garelli
+Clay Barlow
+Corey Valencia
+Cyril Bornette
+Daniel Plant
+Dorothee Pinlet
+Eric Rodriguez
+Flavia Timiani
+Greg Hayes
+Jason Blanco
+Jeremy Besson
+Jerome B Turnbull
+Johnathan Thompson
+Josh Valensi
+Kasim Rehman
+Katrina Tough
+Kelly White
+Manuel Germain Kedi
+Manuel Redruello
+Matt Bergeron
+Megan Thompson
+Michael Gortz
+Mihai Pohontu
+Molly Petullo
+Nicholas Gallant
+Pam Pilouk
+Patricia Myers
+Peter Geiss
+Phillip Batch
+Robert Kalutkiewicz
+Shin Park
+Sonia Souto-Sieiro
+Stephanie Martinelli
+Yousuf Bhaijee
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY_TITLE">How to Play</entry>
+<entry name="SCORE_SEPARATOR">,</entry>
+<entry name="LOSE_TIME">Out of time!</entry>
+<entry name="SWORDS">Swords</entry>
+<entry name="REMAINING_TOKENS">Remaining Power-ups</entry>
+<entry name="LINK_CONFIRMATION">Open link and
+exit the game?</entry>
+<entry name="TUTORIAL_MULTIPLIER">TIP: Having trouble reaching the 
+target score? Make matches
+quickly to earn score multipliers.</entry>
+<entry name="GAME_OBJECTIVE_DROP_TILES">Drop the Special
+Items to the bottom
+of the board!</entry>
+<entry name="OFF">Off</entry>
+<entry name="MAP_OBJECTIVE_FROST">Remove the Frost</entry>
+<entry name="TORCHES">Torches</entry>
+<entry name="END_SHORT_WIN_GREAT">Amazing!</entry>
+<entry name="YES">Yes</entry>
+<entry name="CONGRATULATIONS">Congratulations!</entry>
+<entry name="LOST_LIFE">You lost
+1 Life.</entry>
+<entry name="ICE_AXE">Ice Axe</entry>
+<entry name="STORE_FAILED_TEXT">Purchased Failed. Please check your network settings and try again later.</entry>
+<entry name="UNLOCK_PABBIE_TROLL_MAGIC">Congratulations! You
+unlocked Pabbie and
+his Troll Magic Power-up!</entry>
+<entry name="PURCHASE">Purchase</entry>
+<entry name="STORE_PURCHASED_TEXT">Congratulations, your purchase was successful!</entry>
+<entry name="TUTORIAL_FREEZER">The Freezer tile will continue
+to freeze adjacent tiles until
+you break them.</entry>
+<entry name="LEVEL_OBJECTIVE_TARGET_TILES">Break Target Tiles</entry>
+<entry name="SWORD_DESCRIPTION">Each Sword breaks 
+Tiles as you swipe
+the board.</entry>
+<entry name="STORE_DISABLED_TEXT">In-app purchases disabled. Please enable them in the device&apos;s Settings and try again.</entry>
+<entry name="STORE_WAITING_TITLE">Waiting</entry>
+<entry name="CARROTS">Carrots</entry>
+<entry name="HELP_OBJECTIVES">Accomplish each level&apos;s
+objective and beat the
+target score to advance
+the story and unlock
+new levels.</entry>
+<entry name="TUTORIAL_SNOW_TILE">The Snow can be broken by
+creating a match next to it.
+Try it out, then clear all the
+Snow from the board!</entry>
+<entry name="LIVES_NOTIFICATION_MESSAGE">You have a full set of lives. Come back and PLAY!</entry>
+<entry name="TUTORIAL_SNOWBALL_ITEM">Tap the Snowball to
+receive 5 Extra Moves.
+&lt;FREE_SNOWBALLS&gt;</entry>
+<entry name="GAME_OBJECTIVE_FROST">Remove all Frost
+from the board!</entry>
+<entry name="APP_RATE_BUTTON_NEVER">Never rate</entry>
+<entry name="ABOUT_TERMS_OF_USE">Terms of Use</entry>
+<entry name="HELP_ICEBERG">T or L shape = Iceberg</entry>
+<entry name="ABOUT_VERSION">Version 1.0.0</entry>
+<entry name="GLACIER">Glacier</entry>
+<entry name="TUTORIAL_ICE_PICK_ITEM">Tap the Ice Pick, then
+select any Ice Crystal to
+break it. &lt;FREE_ICE_PICKS&gt;</entry>
+<entry name="END_SHORT_LOSE">Too Bad!</entry>
+<entry name="LOSE_MOVES">Out of moves!</entry>
+<entry name="MAP_OBJECTIVE_TARGET_TILES">Elimination</entry>
+<entry name="CREDITS_MOBILITY_NAMES">&lt;SPACE&gt;
+Constantin Marcu
+
+
+Catalin Marcu
+
+
+Florin Covit
+
+
+Petru Neacsu
+
+
+Alexandru Boaca
+
+
+Ciprian Adumitroaei
+
+
+Andrei Miorcaneanu
+Juan Jose Lopez Cucurella
+
+
+Ioan Chirita
+Lidia Macovei
+
+
+Andrei Patrascu
+Iulius Maxim
+
+
+Paul Marcu
+Ada Iacob
+Mihai Simion
+&lt;SPACE&gt;</entry>
+<entry name="TUTORIAL_FREE_SNOWBALLS">You have 2 Snowballs to
+try for Free!</entry>
+<entry name="GAME_OBJECTIVE_SCORE_TIME">Reach the target
+score before you
+run out of TIME!</entry>
+<entry name="GAME_MOVES">Moves</entry>
+<entry name="TUTORIAL_FREE_ICE_PICKS">You have
+2 Ice Picks to try for Free!</entry>
+<entry name="ICE_AXE_DESCRIPTION">Each Ice Axe breaks
+6 random Tiles.</entry>
+<entry name="TUTORIAL_GLACIER">Match 5 colors in a row to
+create a Glacier! Combine it
+with any Ice Crystal to break
+all Ice Crystals of the same
+color.</entry>
+<entry name="TUTORIAL_SWORD_ITEM">Tap Hans&apos; Sword, then
+swipe across the board
+to break Ice Crystals.
+&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICK_DESCRIPTION">Each Ice Pick breaks
+1 selected Tile.</entry>
+<entry name="RESHUFFLE_MESSAGE">No more moves.
+Reshuffling!</entry>
+<entry name="END_SHORT_WIN_GOOD">Excellent!</entry>
+<entry name="HOURGLASS_DESCRIPTION">1 Hourglass
+=
+15 Seconds</entry>
+<entry name="FINISH_GAME_BUTTON">Awesome!</entry>
+<entry name="ABOUT">About</entry>
+<entry name="TUTORIAL_HOURGLASS_ITEM">Tap the Hourglass to
+receive 15 Extra Seconds. 
+&lt;FREE_HOURGLASSES&gt;</entry>
+<entry name="TUTORIAL_HOT_CHOCOLATE_ITEM">Tap Olaf&apos;s Hot Chocolate, then
+an Ice Crystal to change it into
+a needed Ice Crystal.
+&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICKS">Ice Picks</entry>
+<entry name="MAP_OBJECTIVE_SCORE">Target Score</entry>
+<entry name="UNLOCK_SNOWBALL">Congratulations! You
+unlocked the Snowball!</entry>
+<entry name="EXIT">Exit Game</entry>
+<entry name="HELP_MATCH">Touch an Ice Crystal and
+slide it with your finger.
+Match 3 Ice Crystals of the
+same color to break them
+and score points.
+</entry>
+<entry name="HELP_MULTIPLIER">TIP: Having trouble
+reaching the target
+score? Make matches
+quickly to earn score
+multipliers.</entry>
+<entry name="HELP_GLACIER">5 in a row = Glacier</entry>
+<entry name="APP_RATE_MESSAGE">If you&apos;re enjoying Frozen Free Fall, please take a few moments to rate it.</entry>
+<entry name="GAME_SECONDS">Seconds</entry>
+<entry name="LOSE_DROP_TILES">You didn&apos;t drop all 
+the Special Items.</entry>
+<entry name="CARROT">Carrot</entry>
+<entry name="HOT_CHOCOLATE_DESCRIPTION">Each Hot Chocolate
+does stuff.</entry>
+<entry name="HELP_FUN">Have Fun!</entry>
+<entry name="LEVEL_OBJECTIVE">Objective:</entry>
+<entry name="RETRY">Retry Level</entry>
+<entry name="UNLOCK_ELSA_GLACIER">Congratulations! You
+unlocked Elsa and
+her Glacier Power-up!</entry>
+<entry name="PURCHASES_WARNING_TITLE">IAP Disclaimer</entry>
+<entry name="ICE_PICK">Ice Pick</entry>
+<entry name="CONTINUE">Continue</entry>
+<entry name="SNOWBALL">Snowball</entry>
+<entry name="NO_MORE_MOVES">No more possible moves.
+Try using a Power-up!</entry>
+<entry name="FACEBOOK_LOGOUT">Logout</entry>
+<entry name="MORE_DISNEY">More Disney</entry>
+<entry name="TORCH">Torch</entry>
+<entry name="MAP_OBJECTIVE_DROP_TILES">Drop the Items</entry>
+<entry name="LEVEL_TARGET">Target: </entry>
+<entry name="BUY_ITEMS">Get More Items</entry>
+<entry name="TUTORIAL_WINTERCHILL">Match 4 colors in a row to
+create a Windchill! Match
+it to break all Ice Crystals
+in its path.</entry>
+<entry name="GLACIER_DESCRIPTION">Each Glacier breaks
+all Tiles of the
+selected color.</entry>
+<entry name="UNLOCK_HANS_SWORD">Congratulations! You
+unlocked Hans and
+his Sword Power-up!</entry>
+<entry name="ABOUT_VISIT">Visit us at: 
+http://disney.go.com/index</entry>
+<entry name="STORE_WAITING_TEXT">Waiting for store...</entry>
+<entry name="TUTORIAL_LOCKED_TILE">The Locked tile can be broken by 
+matching it with 2 Ice Crystals
+of the same color.</entry>
+<entry name="SNOWBALL_DESCRIPTION">1 Snowball
+=
+5 Moves</entry>
+<entry name="RESET_CONFIRMATION">Reset all progress?</entry>
+<entry name="TUTORIAL_TROLL_MAGIC_ITEM">Tap Pabbie&apos;s Troll Magic to
+summon a random item to use
+during this level.
+&lt;TOKEN&gt;</entry>
+<entry name="TUTORIAL_FREE_HOURGLASSES">You have 2 Hourglasses to 
+try for Free!</entry>
+<entry name="UNLOCK_ICE_PICK">Congratulations! You
+unlocked the Ice Pick!</entry>
+<entry name="LEVEL_CHOOSE_COMPANION">Choose Companion</entry>
+<entry name="STORE_FAILED_TITLE">Failed</entry>
+<entry name="OUT_OF_LIVES">Refill Lives</entry>
+<entry name="FINISH_GAME_MESSAGE">You finished all levels!
+New levels coming
+SOON!</entry>
+<entry name="TUTORIAL_TORCH_ITEM">Tap Anna&apos;s Torch, then select
+8 connecting Ice Crystals to
+break them.
+&lt;TOKEN&gt;</entry>
+<entry name="MAP_OBJECTIVE_SNOW">Remove the Snow</entry>
+<entry name="PURCHASES_WARNING">Additional content can be purchased in Frozen Free Fall. Purchasing this content costs real money and will be charged to your iTunes account. You can adjust your device settings to lock the ability to make in-app purchases.</entry>
+<entry name="MUSIC">Music:  </entry>
+<entry name="HOME">Home</entry>
+<entry name="TUTORIAL_GLACIER_ITEM">Tap Elsa&apos;s Glacier, then select
+an Ice Crystal to break all Ice
+Crystals of the same color.
+&lt;TOKEN&gt;</entry>
+<entry name="CREDITS_DISNEY">DISNEY</entry>
+<entry name="BUTTON_OK">OK</entry>
+<entry name="TORCH_DESCRIPTION">Each Torch breaks 
+8 connected Tiles
+of your choice.</entry>
+<entry name="TUTORIAL_FROST">The Frost can be broken by
+creating a match over it.
+Try it out, then clear all the
+Frost from the board!</entry>
+<entry name="HOT_CHOCOLATES">Hot Chocolates</entry>
+<entry name="MAP_OBJECTIVE_SCORE_TIME">Beat the Clock</entry>
+<entry name="APP_RATE_BUTTON_CANCEL">Remind me later</entry>
+<entry name="APP_RATE_BUTTON_RATE">Rate this app</entry>
+<entry name="ICE_AXES">Ice Axes</entry>
+<entry name="RESET_PROGRESS">Reset</entry>
+<entry name="LOSE_CONTINUE_TIME">Use 1 Hourglass
+(+15 seconds) to
+continue this level?</entry>
+<entry name="NO">No</entry>
+<entry name="UNLOCK_ANNA_TORCH">Congratulations! You
+unlocked Anna and
+her Torch Power-up!</entry>
+<entry name="TUTORIAL_MATCH_3">Swipe the Ice Crystals to
+match 3 of the same color!</entry>
+<entry name="LOSE_FROST">You didn&apos;t remove
+all the Frost.</entry>
+<entry name="HOT_CHOCOLATE">Hot Chocolate</entry>
+<entry name="MENU_PLAY">Play</entry>
+<entry name="UNLOCK_OLAF_HOT_CHOCOLATE">Congratulations! You
+unlocked Olaf and his
+Hot Chocolate Power-up!</entry>
+<entry name="APP_RATE_TITLE">Rate Frozen Free Fall</entry>
+</entries>

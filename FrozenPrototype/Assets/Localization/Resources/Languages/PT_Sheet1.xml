@@ -1,0 +1,654 @@
+<entries>
+<entry name="LIVES_NOTIFICATION_TITLE">Jogar Frozen Free Fall</entry>
+<entry name="END_SHORT_WIN">Muito bem!</entry>
+<entry name="ABOUT_TITLE">Frozen
+Free Fall</entry>
+<entry name="TUTORIAL_ITEM_TOKENS">Você recebe 2 Poderes
+para usar de graça!</entry>
+<entry name="LEVEL_COMPANION">Seu parceiro</entry>
+<entry name="TUTORIAL_CARROT_ITEM">Toque na Cenoura de Sven
+para quebrar 9 Cristais
+de gelo aleatórios.
+&lt;TOKEN&gt;</entry>
+<entry name="HELP_COMBOS">Combine Poderes para
+desencadear efeitos
+poderosos.</entry>
+<entry name="STORE_DISABLED_TITLE">Desativado</entry>
+<entry name="GAME_TIME">Tempo</entry>
+<entry name="UNLOCK_KRISTOFF_ICE_AXE">Parabéns! Você
+desbloqueou Kristoff e
+seu Poder: Machado!</entry>
+<entry name="PLAY_AGAIN">Jogar de novo</entry>
+<entry name="ON">Sim</entry>
+<entry name="TUTORIAL_ICEBERG">Combine cores em forma
+de &quot;T&quot; ou &quot;L&quot; para criar um
+Iceberg! Combine-as para
+quebrar todos os Cristais
+de Gelo ao seu redor.</entry>
+<entry name="CREDITS_DISNEY_TITLES">PRODUCTION
+
+Managing Producer
+
+
+Technical Director
+
+
+Executive Producer
+
+
+MARKETING
+
+Director, Mobile
+Product Marketing
+
+
+Manager, Mobile
+Product Marketing
+
+
+
+CENTRAL CREATIVE
+
+Director, Games
+Content Development
+
+
+Director, Art &amp; Design
+
+
+Senior Manager,
+Game Design
+
+
+Lead Artist
+
+
+Coordinator, Games
+Content Development
+
+
+Associate Artist
+
+
+Undergraduate, Art Intern
+
+
+Graduate, Graphic
+Design Intern
+
+
+QUALITY ASSURANCE
+
+Director, Mobile QA &amp;
+Live Operations
+
+
+QA Supervisor
+
+
+QA Project Lead
+
+
+QA Testers
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</entry>
+<entry name="TUTORIAL_TAP">Toque para continuar.</entry>
+<entry name="CARROT_DESCRIPTION">Cada cenoura quebra
+9 Ladrilhos aleatórios.</entry>
+<entry name="ITEM_TOKEN_DESCRIPTION">Poderes podem ser usados
+para qualquer personagem
+selecionado.</entry>
+<entry name="TROLL_MAGIC_DESCRIPTION">Cada Magia de trol se
+transforma em um Poder
+ou Item aleatório.</entry>
+<entry name="ABOUT_CUSTOMER_SUPPORT">Suporte</entry>
+<entry name="FINISH_GAME_TITLE">Incrível!</entry>
+<entry name="WIN_SHORT_FREE_FALL">Free Fall!</entry>
+<entry name="TROLL_MAGIC">Magia de trol</entry>
+<entry name="UNLOCK_HOURGLASS">Parabéns! Você
+desbloqueou a
+Ampulheta!</entry>
+<entry name="UNLOCK_SVEN_CARROT">Parabéns! Você
+desbloqueou Sven e
+seu Poder, Cenoura!</entry>
+<entry name="LOSE_SNOW">Você não removeu
+toda a Neve.</entry>
+<entry name="FACEBOOK_LOGIN">Conectar</entry>
+<entry name="LIFE_LOST">Você perdeu uma Vida.</entry>
+<entry name="TUTORIAL_COMBINE">Combine 2 Poderes para
+criar um efeito poderoso.
+Experimente agora com o
+Calafrio e o Iceberg.</entry>
+<entry name="EXIT_CONFIRMATION">Fechar aplicativo?</entry>
+<entry name="GAME_OBJECTIVE_TARGET_TILES">Elimine os
+Cristais de Gelo
+necessários!</entry>
+<entry name="ABOUT_PUBLISHER">Produzido por
+Disney Mobile
+©2013 Disney</entry>
+<entry name="CREDITS_MOBILITY">MOBILITY GAMES</entry>
+<entry name="GAME_OBJECTIVE_SNOW">Remova toda a
+Neve do quadro!</entry>
+<entry name="GAME_OBJECTIVE_SCORE">Alcance os pontos
+alvo antes de 
+ficar sem JOGADAS!</entry>
+<entry name="LOSE_SCORE">Você não alcançou
+os pontos alvo.</entry>
+<entry name="SOUND">Som:</entry>
+<entry name="ABOUT_PRIVACY_POLICY">Política de priv.</entry>
+<entry name="GLACIERS">Geleiras</entry>
+<entry name="LOADING">Carregando...</entry>
+<entry name="TUTORIAL_ICE_AXE_ITEM">Toque no Machado de
+Kristoff para quebrar 6
+Cristais de Gelo com Geada
+aleatórios. &lt;TOKEN&gt;</entry>
+<entry name="GAME_SCORE">Pontos</entry>
+<entry name="ABOUT_DEVELOPER">Desenvolvido por</entry>
+<entry name="HELP_SPECIALS">Combine 4 ou 5 Cristais
+de Gelo em formas
+diferentes para criar um
+Calafrio, um Iceberg
+ou uma Geleira.</entry>
+<entry name="SWORD">Espada</entry>
+<entry name="BEST">Melhor</entry>
+<entry name="HELP_WINDCHILL">4 em linha = Calafrio</entry>
+<entry name="LEVEL_NAME">Nível</entry>
+<entry name="STORE_PURCHASED_TITLE">Sucesso</entry>
+<entry name="LOSE_CONTINUE_MOVES">Usar 1 Bola de Neve
+(+5 jogadas) para
+seguir neste nível?</entry>
+<entry name="GET_MORE_TOKENS">Obtenha mais Poderes</entry>
+<entry name="CREDITS">CRÉDITOS</entry>
+<entry name="LOSE_TARGET_TILES">Você não eliminou
+os Cristais de
+Gelo necessários.</entry>
+<entry name="TROLL_MAGICS">Magias de trol</entry>
+<entry name="LEVEL_TARGET_SCORE">Pontos alvo:</entry>
+<entry name="CREDITS_MOBILITY_TITLES">Executive Producer
+
+
+Game Producer
+
+
+Technical Lead
+
+
+Lead Artist
+
+
+Technical Artist
+
+
+Animation Lead
+
+
+Programmers
+
+
+
+Artists
+
+
+
+Level Designers
+
+
+
+QA
+
+
+
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY">Como jogar</entry>
+<entry name="NEXT_LEVEL">Próximo nível</entry>
+<entry name="SNOWBALLS">Bolas de neve</entry>
+<entry name="CREDITS_DISNEY_NAMES">&lt;SPACE&gt;
+
+
+Ryan Winterholler
+
+
+Binh Nguyen
+
+
+Scott Humphries
+
+
+
+
+
+Patrick W Sager
+
+
+
+Jenn Lim
+Linda Lee
+
+
+
+
+
+Luigi Priore
+
+
+Will Rosas
+
+
+
+Brian Gomez
+
+
+Young Choi
+
+
+
+Siobhan Vanaman
+
+
+Tim Tsang
+
+
+Yannan (Connie) Kang
+
+
+
+Vanessa Luo
+
+
+
+
+
+Marietta Pashayan
+
+
+Natascha A Thomas
+
+
+Bobby Munguia
+
+
+Adam Hale
+Adrian Pitones
+Alen Khanyan
+Belinda Louie
+Carlos Barata
+Carlos Flores
+John Pfund
+Kevin Skorcz
+Rachel Hassid
+
+
+
+Adam Landenberger
+Alex Sherer
+Amir Hematyar
+Amy M Kreutzen
+Angeline Huang
+Brice Bonnet
+Christian Garelli
+Clay Barlow
+Corey Valencia
+Cyril Bornette
+Daniel Plant
+Dorothee Pinlet
+Eric Rodriguez
+Flavia Timiani
+Greg Hayes
+Jason Blanco
+Jeremy Besson
+Jerome B Turnbull
+Johnathan Thompson
+Josh Valensi
+Kasim Rehman
+Katrina Tough
+Kelly White
+Manuel Germain Kedi
+Manuel Redruello
+Matt Bergeron
+Megan Thompson
+Michael Gortz
+Mihai Pohontu
+Molly Petullo
+Nicholas Gallant
+Pam Pilouk
+Patricia Myers
+Peter Geiss
+Phillip Batch
+Robert Kalutkiewicz
+Shin Park
+Sonia Souto-Sieiro
+Stephanie Martinelli
+Yousuf Bhaijee
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY_TITLE">Como jogar</entry>
+<entry name="SCORE_SEPARATOR">.</entry>
+<entry name="LOSE_TIME">Acabou o tempo!</entry>
+<entry name="SWORDS">Espadas</entry>
+<entry name="REMAINING_TOKENS">Poderes restantes</entry>
+<entry name="LINK_CONFIRMATION">Abrir link e sair?</entry>
+<entry name="TUTORIAL_MULTIPLIER">DICA: Com problemas para
+alcançar a pontuação alvo?
+Faça combinações rapidamente
+para obter multiplicadores.</entry>
+<entry name="GAME_OBJECTIVE_DROP_TILES">Leve os Itens
+especiais até a
+base do quadro!</entry>
+<entry name="OFF">Não</entry>
+<entry name="MAP_OBJECTIVE_FROST">Remova a Geada</entry>
+<entry name="TORCHES">Tochas</entry>
+<entry name="END_SHORT_WIN_GREAT">Incrível!</entry>
+<entry name="YES">Sim</entry>
+<entry name="CONGRATULATIONS">Parabéns!</entry>
+<entry name="LOST_LIFE">Você perdeu
+uma Vida.</entry>
+<entry name="ICE_AXE">Machado</entry>
+<entry name="STORE_FAILED_TEXT">A compra falhou. Confira suas
+configurações de rede e tente
+novamente mais tarde.</entry>
+<entry name="UNLOCK_PABBIE_TROLL_MAGIC">Parabéns! Você desbloqueou
+Pabbie e seu Poder:
+Magia de Trol!</entry>
+<entry name="PURCHASE">Comprar</entry>
+<entry name="STORE_PURCHASED_TEXT">Parabéns, sua compra foi
+realizada com sucesso!</entry>
+<entry name="TUTORIAL_FREEZER">O ladrilho Congelante
+é similar ao de Neve, mas
+ele contamina seu redor a
+cada turno em que um
+deles é quebrado.</entry>
+<entry name="LEVEL_OBJECTIVE_TARGET_TILES">Quebrar os
+ladrilhos alvo</entry>
+<entry name="SWORD_DESCRIPTION">Cada Espada quebra
+Ladrilhos ao arrastar
+no quadro.</entry>
+<entry name="STORE_DISABLED_TEXT">Compras em aplicativos estão
+desativadas. Ative-as nas
+Configurações do dispositivo.</entry>
+<entry name="STORE_WAITING_TITLE">Aguardando</entry>
+<entry name="CARROTS">Cenouras</entry>
+<entry name="HELP_OBJECTIVES">Complete o objetivo de
+cada nível e alcance a
+pontuação alvo para
+avançar na história e
+desbloquear novos níveis.</entry>
+<entry name="TUTORIAL_SNOW_TILE">Crie uma combinação ao
+lado da Neve e a quebre. 
+Experimente e elimine 
+toda a Neve!</entry>
+<entry name="LIVES_NOTIFICATION_MESSAGE">Você tem um conjunto completo de vidas. Volte e JOGUE!</entry>
+<entry name="TUTORIAL_SNOWBALL_ITEM">Toque na Bola de neve para
+receber 5 jogadas extras.
+&lt;FREE_SNOWBALLS&gt;</entry>
+<entry name="GAME_OBJECTIVE_FROST">Remova toda a
+Geada do quadro!</entry>
+<entry name="APP_RATE_BUTTON_NEVER">Nunca avaliar</entry>
+<entry name="ABOUT_TERMS_OF_USE">Termos de uso</entry>
+<entry name="HELP_ICEBERG">Forma de T ou L = Iceberg</entry>
+<entry name="ABOUT_VERSION">Versão 1.0.0</entry>
+<entry name="GLACIER">Geleira</entry>
+<entry name="TUTORIAL_ICE_PICK_ITEM">Toque no Quebra-gelo 
+e selecione um Cristal
+de Gelo para quebrar.
+&lt;FREE_ICE_PICKS&gt;</entry>
+<entry name="END_SHORT_LOSE">Que pena!</entry>
+<entry name="LOSE_MOVES">Sem jogadas!</entry>
+<entry name="MAP_OBJECTIVE_TARGET_TILES">Eliminação</entry>
+<entry name="CREDITS_MOBILITY_NAMES">&lt;SPACE&gt;
+Constantin Marcu
+
+
+Catalin Marcu
+
+
+Florin Covit
+
+
+Petru Neacsu
+
+
+Alexandru Boaca
+
+
+Ciprian Adumitroaei
+
+
+Andrei Miorcaneanu
+Juan Jose Lopez Cucurella
+
+
+Ioan Chirita
+Lidia Macovei
+
+
+Andrei Patrascu
+Iulius Maxim
+
+
+Paul Marcu
+Ada Iacob
+Mihai Simion
+&lt;SPACE&gt;</entry>
+<entry name="TUTORIAL_FREE_SNOWBALLS">Você tem 2 Bolas de Neve
+para usar de graça!</entry>
+<entry name="GAME_OBJECTIVE_SCORE_TIME">Alcance os pontos
+alvo antes do
+tempo ACABAR!</entry>
+<entry name="GAME_MOVES">Jogadas</entry>
+<entry name="TUTORIAL_FREE_ICE_PICKS">Você tem 2 Quebra-gelo
+para usar de graça!</entry>
+<entry name="ICE_AXE_DESCRIPTION">Cada Machado
+quebra 6 Ladrilhos
+aleatórios.</entry>
+<entry name="TUTORIAL_GLACIER">Combine 5 cores em sequência
+para criar uma Geleira! 
+Combine-a com outro Cristal
+de Gelo para quebrar todos 
+os da mesma cor.</entry>
+<entry name="TUTORIAL_SWORD_ITEM">Toque na Espada de Hans
+e vá limpando o quadro
+para quebrar Cristais de Gelo.
+&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICK_DESCRIPTION">Cada Quebra-gelo
+quebra 1 Ladrilho
+selecionado.</entry>
+<entry name="RESHUFFLE_MESSAGE">Sem mais jogadas.
+Embaralhando
+de novo!</entry>
+<entry name="END_SHORT_WIN_GOOD">Excelente!</entry>
+<entry name="HOURGLASS_DESCRIPTION">1 Ampulheta
+=
+15 Segundos</entry>
+<entry name="FINISH_GAME_BUTTON">Sensacional!</entry>
+<entry name="ABOUT">Sobre</entry>
+<entry name="TUTORIAL_HOURGLASS_ITEM">Toque na Ampulheta para
+receber 15 segundos extras.
+&lt;FREE_HOURGLASSES&gt;</entry>
+<entry name="TUTORIAL_HOT_CHOCOLATE_ITEM">Toque no Chocolate Quente
+de Olaf e depois em um
+Cristal de Gelo para que
+se transforme.&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICKS">Quebra-gelos</entry>
+<entry name="MAP_OBJECTIVE_SCORE">Pontos alvo</entry>
+<entry name="UNLOCK_SNOWBALL">Parabéns! Você
+desbloqueou a
+Bola de Neve!</entry>
+<entry name="EXIT">Sair do jogo</entry>
+<entry name="HELP_MATCH">Toque em um Cristal de
+Gelo e mova-o com o seu
+dedo. Combine 3 Cristais
+de Gelo da mesma cor
+para quebrá-los e
+marcar pontos.</entry>
+<entry name="HELP_MULTIPLIER">DICA: Com problemas
+para alcançar a
+pontuação alvo?
+Faça combinações
+rapidamente
+para obter
+multiplicadores.</entry>
+<entry name="HELP_GLACIER">5 em linha = Geleira</entry>
+<entry name="APP_RATE_MESSAGE">Se você está gostando de Frozen Free Fall, por favor avalie o jogo.</entry>
+<entry name="GAME_SECONDS">Segundos</entry>
+<entry name="LOSE_DROP_TILES">Você não baixou
+todos os Itens
+especiais.</entry>
+<entry name="CARROT">Cenoura</entry>
+<entry name="HOT_CHOCOLATE_DESCRIPTION">Cada Chocolate Quente
+faz algo.</entry>
+<entry name="HELP_FUN">Divirta-se!</entry>
+<entry name="LEVEL_OBJECTIVE">Objetivo:</entry>
+<entry name="RETRY">Repetir nível</entry>
+<entry name="UNLOCK_ELSA_GLACIER">Parabéns! Você desbloqueou
+Elsa e seu Poder: Geleira!</entry>
+<entry name="PURCHASES_WARNING_TITLE">Aviso Legal IAP</entry>
+<entry name="ICE_PICK">Quebra-gelo</entry>
+<entry name="CONTINUE">Continuar</entry>
+<entry name="SNOWBALL">Bola de neve</entry>
+<entry name="NO_MORE_MOVES">Sem jogadas possíveis.
+Tente usar um Poder!</entry>
+<entry name="FACEBOOK_LOGOUT">Sair</entry>
+<entry name="MORE_DISNEY">Mais Disney</entry>
+<entry name="TORCH">Tocha</entry>
+<entry name="MAP_OBJECTIVE_DROP_TILES">Baixe os itens</entry>
+<entry name="LEVEL_TARGET">Alvo:</entry>
+<entry name="BUY_ITEMS">Tenha mais itens</entry>
+<entry name="TUTORIAL_WINTERCHILL">Combine 4 cores em
+sequência para criar um
+Calafrio! Combine-o para
+quebrar todos os Cristais
+de Gelo em seu caminho.</entry>
+<entry name="GLACIER_DESCRIPTION">Cada Geleira quebra
+todos os Ladrilhos da
+cor selecionada.</entry>
+<entry name="UNLOCK_HANS_SWORD">Parabéns! Você desbloqueou
+Hans e seu Poder: Espada!</entry>
+<entry name="ABOUT_VISIT">Visite-nos em:
+http://disney.go.com/index</entry>
+<entry name="STORE_WAITING_TEXT">Aguardando a loja...</entry>
+<entry name="TUTORIAL_LOCKED_TILE">O ladrilho Bloqueado
+pode ser quebrado
+combinando-o com 2 Cristais
+de gelo da mesma cor.</entry>
+<entry name="SNOWBALL_DESCRIPTION">1 Bola de neve
+=
+5 Jogadas</entry>
+<entry name="RESET_CONFIRMATION">Resetar todo o progresso?</entry>
+<entry name="TUTORIAL_TROLL_MAGIC_ITEM">Toque na Magia de trol de
+Pabbie para invocar um
+item aleatório para usar
+no nível. &lt;TOKEN&gt;</entry>
+<entry name="TUTORIAL_FREE_HOURGLASSES">Você tem 2 Ampulhetas 
+para usar de graça!</entry>
+<entry name="UNLOCK_ICE_PICK">Parabéns! Você
+desbloqueou o
+Quebra-gelo!</entry>
+<entry name="LEVEL_CHOOSE_COMPANION">Escolher parceiro</entry>
+<entry name="STORE_FAILED_TITLE">Falha</entry>
+<entry name="OUT_OF_LIVES">Reabastecer vidas</entry>
+<entry name="FINISH_GAME_MESSAGE">Você terminou todos
+os níveis! Novos níveis
+chegando EM BREVE!</entry>
+<entry name="TUTORIAL_TORCH_ITEM">Toque na Tocha de Anna
+e selecione 8 Cristais de
+Gelo conectados para
+quebrá-los. &lt;TOKEN&gt;</entry>
+<entry name="MAP_OBJECTIVE_SNOW">Remova a Neve</entry>
+<entry name="PURCHASES_WARNING">Há conteúdo adicional de
+Frozen Free Fall à venda. A
+compra desse conteúdo custa
+dinheiro real e será cobrada
+de sua conta do iTunes. Você
+pode ajustar as configurações
+de seu dispositivo para
+desativar essas compras.</entry>
+<entry name="MUSIC">Música:</entry>
+<entry name="HOME">Início</entry>
+<entry name="TUTORIAL_GLACIER_ITEM">Toque na Geleira de Elsa e
+selecione um Cristal de Gelo
+para quebrar todos os da
+mesma cor. &lt;TOKEN&gt;</entry>
+<entry name="CREDITS_DISNEY">DISNEY</entry>
+<entry name="BUTTON_OK">OK</entry>
+<entry name="TORCH_DESCRIPTION">Cada Tocha quebra
+8 Ladrilhos conectados
+da sua escolha.</entry>
+<entry name="TUTORIAL_FROST">Crie uma combinação ao
+lado da Geada e a quebre.
+Experimente e elimine
+toda a geada.</entry>
+<entry name="HOT_CHOCOLATES">Choco. quentes</entry>
+<entry name="MAP_OBJECTIVE_SCORE_TIME">Vença o tempo</entry>
+<entry name="APP_RATE_BUTTON_CANCEL">Me lembre depois</entry>
+<entry name="APP_RATE_BUTTON_RATE">Avaliar aplicativo</entry>
+<entry name="ICE_AXES">Machado</entry>
+<entry name="RESET_PROGRESS">Resetar</entry>
+<entry name="LOSE_CONTINUE_TIME">Usar 1 Ampulheta
+(+15 segundos) para
+seguir neste nível?</entry>
+<entry name="NO">Não</entry>
+<entry name="UNLOCK_ANNA_TORCH">Parabéns! Você desbloqueou
+Anna e seu Poder: Tocha!</entry>
+<entry name="TUTORIAL_MATCH_3">Limpe os Cristais de Gelo
+para combinar 3
+da mesma cor!</entry>
+<entry name="LOSE_FROST">Você não removeu
+toda a Geada.</entry>
+<entry name="HOT_CHOCOLATE">Choco. quente</entry>
+<entry name="MENU_PLAY">Jogar</entry>
+<entry name="UNLOCK_OLAF_HOT_CHOCOLATE">Parabéns! Você
+desbloqueou Olaf e
+seu Poder,
+Chocolate Quente!</entry>
+<entry name="APP_RATE_TITLE">Avaliar Frozen Free Fall</entry>
+</entries>

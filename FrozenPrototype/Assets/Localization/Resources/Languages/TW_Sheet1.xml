@@ -1,0 +1,661 @@
+<entries>
+<entry name="DIANXIN_TITLE">免責聲明</entry>		
+<entry name="DIANXIN_CONTENT">本遊戲的版權歸北京群勝網		
+科技有限公司所有，遊戲中		
+的文字、圖片等內容均為遊		
+戲版權所有者的個人態度或		
+立場，中國電信對此不承擔		
+任何法律責任。</entry>		
+<entry name="NOTICE_OFFLINE_CONTENT">請在網路通暢條件下查看公		
+	告，獲取遊戲內最新資訊</entry>	
+<entry name="CONTINUE_GAME">繼續遊戲</entry>		
+<entry name="USER_ID_KEY">用戶ID: </entry>		
+<entry name="INPUT_TOO_FAST">請求過於頻繁，請稍後再試。</entry>		
+<entry name="USER_DEFAULT_NAME">我</entry>		
+<entry name="GIFT_SUCCESS_TIP">兌換成功</entry>		
+<entry name="TIP_GIFT_CODE">請在上方輸入您獲得的兌		
+換碼，然後點擊兌換按鈕		
+來領取獎勵。		
+</entry>		
+<entry name="TIP_NO_NET_GIFT_CODE">請在聯網狀態下使用兌換碼</entry>		
+<entry name="TIP_INVALID_GIFT_CODE">兌換碼不存在或已被使用！</entry>		
+<entry name="TIP_INPUT_GIFT_CODE">在此處輸入兌換碼</entry>		
+<entry name="GIFT_BUTTON_TEXT">兌換</entry>		
+<entry name="MFP_GIFT_TITLE">禮包兌換</entry>		
+<entry name="MFP_LOGIN">登陸</entry>		
+<entry name="360_LOGIN_PROMPT">登陸360帳號和你的		
+通訊錄好友一較高低</entry>		
+<entry name="MFP_NO_INTERNET">請在網路通暢情況下連接網路，		
+與好友一起玩冰雪奇緣！</entry>		
+<entry name="MFP_RANK_TITLE">高分榜</entry>		
+<entry name="360_LOGIN">360登陆</entry>
+<entry name="APP_RATE_TITLE">應用評分</entry>
+<entry name="MFP_NOTICE_TITLE">游戏公告</entry>
+<entry name="NEW_VERSION_PROMPT">版本更新了，是否去下
+載最新版？</entry>
+<entry name="PURCHASE_ITEM_SUCCESS">購買道具成功</entry>
+<entry name="NOT_ENOUGH_DIAMOND">鑽石不足</entry>
+<entry name="IAP_SUCCESS">充值成功</entry>
+<entry name="IAP_FAILURE">充值失敗</entry>
+<entry name="IAP_CANCEL">充值取消</entry>
+<entry name="CHINESE_YUAN">元</entry>
+<entry name="DIAMOND_PRODUCT_1_NAME">小袋鑽石</entry>
+<entry name="DIAMOND_PRODUCT_2_NAME">大袋鑽石</entry>
+<entry name="DIAMOND_PRODUCT_3_NAME">小箱鑽石</entry>
+<entry name="DIAMOND_PRODUCT_4_NAME">大箱鑽石</entry>
+<entry name="DIAMOND_PRODUCT_1_DESC">20顆鑽石</entry>
+<entry name="DIAMOND_PRODUCT_2_DESC">60顆鑽石
+額外贈送5顆</entry>
+<entry name="DIAMOND_PRODUCT_3_DESC">100顆鑽石
+額外贈送10顆</entry>
+<entry name="DIAMOND_PRODUCT_4_DESC">150顆鑽石
+額外贈送20顆</entry>
+<entry name="DIAMOND_PRODUCT_1_DESC_IOS">30顆鑽石</entry>
+<entry name="DIAMOND_PRODUCT_2_DESC_IOS">60顆鑽石
+額外贈送5顆</entry>
+<entry name="DIAMOND_PRODUCT_3_DESC_IOS">150顆鑽石
+額外贈送30顆</entry>
+<entry name="DIAMOND_PRODUCT_4_DESC_IOS">480顆鑽石
+額外贈送120顆</entry>
+<entry name="DIAMOND_PRODUCT_2_SUB_DESC">額外贈送5顆</entry>
+<entry name="DIAMOND_PRODUCT_3_SUB_DESC">額外贈送10顆</entry>
+<entry name="DIAMOND_PRODUCT_4_SUB_DESC">額外贈送20顆</entry>
+<entry name="MFP_HEART_DESCRIPTION">遊戲的必備道具，關卡失敗時消耗。</entry>	
+<entry name="MFP_HOURGLASS">沙漏</entry>
+<entry name="MFP_MALL_TAB_DIAMOND">鑽石</entry>
+<entry name="MFP_MALL_TAB_ITEM">道具</entry>
+<entry name="MFP_MALL_TAB_FRAGMENT">碎片</entry>
+<entry name="MFP_MALL_TAB_PACKAGE">包裹</entry>
+<entry name="MFP_MAGIC_POTION">魔力藥劑</entry>
+<entry name="MFP_MAGIC_POTION_DESCRIPTION">純粹的魔法精華
+。使用夥伴技能
+時消耗。</entry>
+<entry name="MFP_SNOWBALL_DESCRIPTION">增加額外的5個
+步數。</entry>
+<entry name="MFP_ICE_PICK_DESCRIPTION">消除1個指定的
+冰晶。</entry>
+<entry name="MFP_TORCH_DESCRIPTION">清除掉你所選
+擇的的8個相
+連的冰晶。</entry>
+<entry name="MFP_GLACIER_DESCRIPTION">消除所有與選
+定冰晶顏色相
+同的冰晶。</entry>
+<entry name="MFP_TROLL_MAGIC_DESCRIPTION">隨機生成一個
+魔力道具或者
+魔力冰晶。</entry>
+<entry name="MFP_HOURGLASS_DESCRIPTION">增加額外的15秒
+時間。</entry>
+<entry name="MFP_SWORD_DESCRIPTION">清除掉其劃過
+軌跡上的所有
+冰晶。</entry>
+<entry name="MFP_ICE_AXE_DESCRIPTION">消除隨機6個
+格子的冰晶。</entry>
+<entry name="MFP_CARROT_DESCRIPTION">消除隨機9個
+格子的冰晶。</entry>
+<entry name="MFP_HOT_CHOCOLATE_DESCRIPTION">將指定的冰晶
+顏色變成你想
+要的顏色。</entry>
+<entry name="LIVES_NOTIFICATION_TITLE">開始冰雪奇緣</entry>
+<entry name="END_SHORT_WIN">不錯哦！</entry>
+<entry name="ABOUT_TITLE">冰雪奇緣</entry>
+<entry name="TUTORIAL_ITEM_TOKENS">你獲得了兩瓶魔力藥劑來
+免費體驗！</entry>
+<entry name="LEVEL_COMPANION">你的夥伴</entry>
+<entry name="TUTORIAL_CARROT_ITEM">點擊小斯的胡蘿蔔來消除
+隨機9個冰晶。
+&lt;TOKEN&gt;</entry>
+<entry name="HELP_COMBOS">組合不同的魔力冰晶來產
+	生更強力的消除效果。</entry>
+<entry name="STORE_DISABLED_TITLE">購買已禁用</entry>
+<entry name="GAME_TIME">倒計時</entry>
+<entry name="UNLOCK_KRISTOFF_ICE_AXE">恭喜！你解鎖了阿克和他的
+冰鎬技能！</entry>
+<entry name="PLAY_AGAIN">再玩一次</entry>
+<entry name="ON">開啟</entry>
+<entry name="TUTORIAL_ICEBERG">相同顏色的冰晶匹配成
+&quot;T&quot;或&quot;L&quot;時會形成冰霜
+新星。啟動冰霜新星來
+消除與之相鄰的冰晶。</entry>
+<entry name="CREDITS_DISNEY_TITLES">PRODUCTION
+
+Managing Producer
+
+
+Technical Director
+
+
+Executive Producer
+
+
+MARKETING
+
+Director, Mobile
+Product Marketing
+
+
+Manager, Mobile
+Product Marketing
+
+
+
+CENTRAL CREATIVE
+
+Director, Games
+Content Development
+
+
+Director, Art &amp; Design
+
+
+Senior Manager,
+Game Design
+
+
+Lead Artist
+
+
+Coordinator, Games
+Content Development
+
+
+Associate Artist
+
+
+Undergraduate, Art Intern
+
+
+Graduate, Graphic
+Design Intern
+
+
+QUALITY ASSURANCE
+
+Director, Mobile QA &amp;
+Live Operations
+
+
+QA Supervisor
+
+
+QA Project Lead
+
+
+QA Testers
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</entry>
+<entry name="TUTORIAL_TAP">任意點擊來跳過新手引導。</entry>
+<entry name="CARROT_DESCRIPTION">胡蘿蔔技能可以消除隨
+機9個格子的冰晶。</entry>
+<entry name="ITEM_TOKEN_DESCRIPTION">使用夥伴的技能需要消耗魔力藥劑。</entry>
+<entry name="TROLL_MAGIC_DESCRIPTION">魔怪之力可以隨機生成
+一個其它技能或道具。</entry>
+<entry name="ABOUT_CUSTOMER_SUPPORT">用戶支援</entry>
+<entry name="FINISH_GAME_TITLE">酷斃了！</entry>
+<entry name="WIN_SHORT_FREE_FALL">冰雪連擊！</entry>
+<entry name="TROLL_MAGIC">魔怪之力</entry>
+<entry name="UNLOCK_HOURGLASS">恭喜！你解鎖了沙漏道具!</entry>
+<entry name="UNLOCK_SVEN_CARROT">恭喜！你解鎖了小斯和他的
+胡蘿蔔技能！</entry>
+<entry name="LOSE_SNOW">你沒能清除掉所有的雪塊。</entry>
+<entry name="FACEBOOK_LOGIN">連接</entry>
+<entry name="LIFE_LOST">你失去了1顆紅心。</entry>
+<entry name="TUTORIAL_COMBINE">兩個魔力冰晶組合使用會
+產生更為強力的消除效果
+哦。現在就試試寒風之刃
+和冰霜新星的組合吧！</entry>
+<entry name="EXIT_CONFIRMATION">退出遊戲？</entry>
+<entry name="GAME_OBJECTIVE_TARGET_TILES">消除所有指定的冰晶！</entry>
+<entry name="ABOUT_PUBLISHER">迪士尼移動發行©2013 Disney</entry>
+<entry name="CREDITS_MOBILITY">MOBILITY GAMES</entry>
+<entry name="GAME_OBJECTIVE_SNOW">清除掉所有的雪塊！</entry>
+<entry name="GAME_OBJECTIVE_SCORE">在步數用盡前達到指定的分數！</entry>
+<entry name="LOSE_SCORE">你沒能達到指定的分數。</entry>
+<entry name="SOUND">聲音：</entry>
+<entry name="ABOUT_PRIVACY_POLICY">隱私政策</entry>
+<entry name="GLACIERS">冰雪粉碎</entry>
+<entry name="LOADING">載入中…</entry>
+<entry name="TUTORIAL_ICE_AXE_ITEM">點擊阿克的冰鎬來消除隨
+機6個冰晶。
+&lt;TOKEN&gt;</entry>
+<entry name="GAME_SCORE">得分</entry>
+<entry name="ABOUT_DEVELOPER">開發商</entry>
+<entry name="HELP_SPECIALS">將4個或者5個顏色相同
+的冰晶進行匹配來形成
+寒風之刃、冰霜新星或
+者冰雪粉碎。</entry>
+<entry name="SWORD">王子之劍</entry>
+<entry name="BEST">最高得分</entry>
+<entry name="HELP_WINDCHILL">4個一行=寒風之刃</entry>
+<entry name="LEVEL_NAME">關卡</entry>
+<entry name="STORE_PURCHASED_TITLE">購買成功</entry>
+<entry name="LOSE_CONTINUE_MOVES">使用1個雪球增加5步
+來繼續遊戲？</entry>
+<entry name="GET_MORE_TOKENS">購買更多魔力藥劑</entry>
+<entry name="CREDITS">製作人員</entry>
+<entry name="LOSE_TARGET_TILES">你沒能消除掉所有指定的冰晶。</entry>
+<entry name="TROLL_MAGICS">魔怪之力</entry>
+<entry name="LEVEL_TARGET_SCORE">目標得分：</entry>
+<entry name="CREDITS_MOBILITY_TITLES">Executive Producer
+
+
+Game Producer
+
+
+Technical Lead
+
+
+Lead Artist
+
+
+Technical Artist
+
+
+Animation Lead
+
+
+Programmers
+
+
+
+Artists
+
+
+
+Level Designers
+
+
+
+QA
+
+
+
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY">玩法教程</entry>
+<entry name="NEXT_LEVEL">下一關卡</entry>
+<entry name="SNOWBALLS">雪球</entry>
+<entry name="CREDITS_DISNEY_NAMES">&lt;SPACE&gt;
+
+
+Ryan Winterholler
+
+
+Binh Nguyen
+
+
+Scott Humphries
+
+
+
+
+
+Patrick W Sager
+
+
+
+Jenn Lim
+Linda Lee
+
+
+
+
+
+Luigi Priore
+
+
+Will Rosas
+
+
+
+Brian Gomez
+
+
+Young Choi
+
+
+
+Siobhan Vanaman
+
+
+Tim Tsang
+
+
+Yannan (Connie) Kang
+
+
+
+Vanessa Luo
+
+
+
+
+
+Marietta Pashayan
+
+
+Natascha A Thomas
+
+
+Bobby Munguia
+
+
+Adam Hale
+Adrian Pitones
+Alen Khanyan
+Belinda Louie
+Carlos Barata
+Carlos Flores
+John Pfund
+Kevin Skorcz
+Rachel Hassid
+
+
+
+Adam Landenberger
+Alex Sherer
+Amir Hematyar
+Amy M Kreutzen
+Angeline Huang
+Brice Bonnet
+Christian Garelli
+Clay Barlow
+Corey Valencia
+Cyril Bornette
+Daniel Plant
+Dorothee Pinlet
+Eric Rodriguez
+Flavia Timiani
+Greg Hayes
+Jason Blanco
+Jeremy Besson
+Jerome B Turnbull
+Johnathan Thompson
+Josh Valensi
+Kasim Rehman
+Katrina Tough
+Kelly White
+Manuel Germain Kedi
+Manuel Redruello
+Matt Bergeron
+Megan Thompson
+Michael Gortz
+Mihai Pohontu
+Molly Petullo
+Nicholas Gallant
+Pam Pilouk
+Patricia Myers
+Peter Geiss
+Phillip Batch
+Robert Kalutkiewicz
+Shin Park
+Sonia Souto-Sieiro
+Stephanie Martinelli
+Yousuf Bhaijee
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY_TITLE">玩法教程</entry>
+<entry name="SCORE_SEPARATOR">,</entry>
+<entry name="LOSE_TIME">時間到！</entry>
+<entry name="SWORDS">王子之劍</entry>
+<entry name="REMAINING_TOKENS">剩餘魔力藥劑</entry>
+<entry name="LINK_CONFIRMATION">退出遊戲並跳轉到連結網頁？</entry>
+<entry name="TUTORIAL_MULTIPLIER">溫馨提示：感覺得分很困難？
+試試同時快速消除來獲得更高
+的連擊得分吧！</entry>
+<entry name="GAME_OBJECTIVE_DROP_TILES">使指定物品掉落到螢幕底部！</entry>
+<entry name="OFF">關閉</entry>
+<entry name="MAP_OBJECTIVE_FROST">清除掉所有冰霜</entry>
+<entry name="TORCHES">火炬</entry>
+<entry name="END_SHORT_WIN_GREAT">酷斃了！</entry>
+<entry name="YES">確定</entry>
+<entry name="CONGRATULATIONS">恭喜過關！</entry>
+<entry name="LOST_LIFE">你失去了1顆紅心。</entry>
+<entry name="ICE_AXE">冰鎬</entry>
+<entry name="STORE_FAILED_TEXT">支付失敗。請檢查你的網路連接後重新嘗試。</entry>
+<entry name="UNLOCK_PABBIE_TROLL_MAGIC">恭喜！你解鎖了佩比和他的
+魔怪之力！</entry>
+<entry name="PURCHASE">購買</entry>
+<entry name="STORE_PURCHASED_TEXT">恭喜！購買成功！</entry>
+<entry name="TUTORIAL_FREEZER">在將冰核清除掉之前，它會不斷的凍結與之相鄰的格子。</entry>
+<entry name="LEVEL_OBJECTIVE_TARGET_TILES">清除掉所有的冰核</entry>
+<entry name="SWORD_DESCRIPTION">清除掉其劃過軌跡上的
+所有冰晶。</entry>
+<entry name="STORE_DISABLED_TEXT">應用內購買功能已被禁用。請先在設置中啟用它們，然後再重新嘗試。</entry>
+<entry name="STORE_WAITING_TITLE">等待中</entry>
+<entry name="CARROTS">胡蘿蔔</entry>
+<entry name="HELP_OBJECTIVES">完成每個關卡的目標並
+獲得對應的目標得分來
+不斷的解鎖新關卡。</entry>
+<entry name="TUTORIAL_SNOW_TILE">在雪塊周圍匹配冰晶會將
+雪塊也清除掉。現在就嘗
+試下，然後清除掉所有的
+雪塊吧！</entry>
+<entry name="LIVES_NOTIFICATION_MESSAGE">你的紅心已經全部恢復了，快點回來繼續冒險吧！</entry>
+<entry name="TUTORIAL_SNOWBALL_ITEM">點擊雪球來獲得額外的5個步數。
+&lt;FREE_SNOWBALLS&gt;</entry>
+<entry name="GAME_OBJECTIVE_FROST">清除掉所有的冰霜！</entry>
+<entry name="APP_RATE_BUTTON_NEVER">不再提醒</entry>
+<entry name="ABOUT_TERMS_OF_USE">使用條款</entry>
+<entry name="HELP_ICEBERG">T或L形=冰霜新星</entry>
+<entry name="ABOUT_VERSION">版本 1.3.0</entry>
+<entry name="GLACIER">冰雪粉碎</entry>
+<entry name="TUTORIAL_ICE_PICK_ITEM">點擊冰錐，然後選擇任意
+的冰晶來將它消除。
+&lt;FREE_ICE_PICKS&gt;</entry>
+<entry name="END_SHORT_LOSE">真遺憾！</entry>
+<entry name="LOSE_MOVES">步數已用盡！</entry>
+<entry name="MAP_OBJECTIVE_TARGET_TILES">消除冰晶</entry>
+<entry name="CREDITS_MOBILITY_NAMES">&lt;SPACE&gt;
+Constantin Marcu
+
+
+Catalin Marcu
+
+
+Florin Covit
+
+
+Petru Neacsu
+
+
+Alexandru Boaca
+
+
+Ciprian Adumitroaei
+
+
+Andrei Miorcaneanu
+Juan Jose Lopez Cucurella
+
+
+Ioan Chirita
+Lidia Macovei
+
+
+Andrei Patrascu
+Iulius Maxim
+
+
+Paul Marcu
+Ada Iacob
+Mihai Simion
+&lt;SPACE&gt;</entry>
+<entry name="TUTORIAL_FREE_SNOWBALLS">你獲得了兩個雪球來免費體驗！</entry>
+<entry name="GAME_OBJECTIVE_SCORE_TIME">在時間結束前達成目標分數！</entry>
+<entry name="GAME_MOVES">步數</entry>
+<entry name="TUTORIAL_FREE_ICE_PICKS">你獲得了兩個冰錐來免費體驗！</entry>
+<entry name="ICE_AXE_DESCRIPTION">冰鎬技能可以消除隨機6個格子內的冰晶。</entry>
+<entry name="TUTORIAL_GLACIER">將相同顏色的5個冰晶在
+同一行上進行匹配來形成
+冰雪粉碎！交換冰雪粉碎
+與任意冰晶的位置來消除
+顏色與之相同的冰晶。</entry>
+<entry name="TUTORIAL_SWORD_ITEM">點擊漢斯的寶劍，然後劃
+過你想要消除的冰晶來進
+行消除。</entry>
+<entry name="ICE_PICK_DESCRIPTION">每個冰錐都可以消除1個
+選定格子內的冰晶。</entry>
+<entry name="RESHUFFLE_MESSAGE">沒有可移動的冰晶了。
+重新佈局！</entry>
+<entry name="END_SHORT_WIN_GOOD">非常棒！</entry>
+<entry name="HOURGLASS_DESCRIPTION">1個沙漏 = 15秒</entry>
+<entry name="FINISH_GAME_BUTTON">太神奇了！</entry>
+<entry name="ABOUT">關於</entry>
+<entry name="TUTORIAL_HOURGLASS_ITEM">點擊沙漏來獲得15秒的額
+外時間。
+&lt;FREE_HOURGLASSES&gt;</entry>
+<entry name="TUTORIAL_HOT_CHOCOLATE_ITEM">點擊雪寶的熱可可，然後
+點擊冰晶來將它變成你想
+要的顏色。</entry>
+<entry name="ICE_PICKS">冰錐</entry>
+<entry name="MAP_OBJECTIVE_SCORE">達成目標分數</entry>
+<entry name="UNLOCK_SNOWBALL">恭喜！你解鎖了雪球道具！</entry>
+<entry name="EXIT">退出關卡</entry>
+<entry name="HELP_MATCH">用手指按住冰晶並進行
+	滑動。匹配相同顏色的
+	3個冰晶來消除它們。</entry>
+<entry name="HELP_MULTIPLIER">溫馨提示：很難達成目
+標分數？試試同時快速
+消除來獲得更高的連擊
+得分吧！</entry>
+<entry name="HELP_GLACIER">5個一行 = 冰雪粉碎</entry>
+<entry name="APP_RATE_MESSAGE">喜歡冰雪奇緣？請花上一點時間來給它評個分吧！</entry>
+<entry name="GAME_SECONDS">秒</entry>
+<entry name="LOSE_DROP_TILES">你沒能使所有物品都掉落到底部。</entry>
+<entry name="CARROT">胡蘿蔔</entry>
+<entry name="HOT_CHOCOLATE_DESCRIPTION">熱可可技能可以將指定
+冰晶的顏色變成你想要的
+顏色。</entry>
+<entry name="HELP_FUN">遊戲愉快！</entry>
+<entry name="LEVEL_OBJECTIVE">目標：</entry>
+<entry name="RETRY">重新開始</entry>
+<entry name="UNLOCK_ELSA_GLACIER">恭喜！你解鎖了艾莎和她的
+冰雪粉碎技能！</entry>
+<entry name="PURCHASES_WARNING_TITLE">IAP聲明</entry>
+<entry name="ICE_PICK">冰錐</entry>
+<entry name="CONTINUE">繼續</entry>
+<entry name="SNOWBALL">雪球</entry>
+<entry name="NO_MORE_MOVES">沒法再移動了。試試夥伴技能？</entry>
+<entry name="FACEBOOK_LOGOUT">退出遊戲</entry>
+<entry name="MORE_DISNEY">更多精彩遊戲</entry>
+<entry name="TORCH">火炬</entry>
+<entry name="MAP_OBJECTIVE_DROP_TILES">物品掉落</entry>
+<entry name="LEVEL_TARGET">目標：</entry>
+<entry name="BUY_ITEMS">購買更多道具</entry>
+<entry name="TUTORIAL_WINTERCHILL">4個顏色相同的冰晶在
+同一行上進行匹配可以
+形成寒風之刃。啟動寒
+風之刃來消除一整行的
+冰晶！</entry>
+<entry name="GLACIER_DESCRIPTION">冰雪粉碎技能可以消除
+所有與選定冰晶顏色相
+同的冰晶。</entry>
+<entry name="UNLOCK_HANS_SWORD">恭喜！你解鎖了漢斯和他的
+王子之劍技能！</entry>
+<entry name="ABOUT_VISIT">更多詳情，請訪問： 
+http://disney.go.com/index</entry>
+<entry name="STORE_WAITING_TEXT">等待商店返回…</entry>
+<entry name="TUTORIAL_LOCKED_TILE">被鎖定的冰晶可以通過匹配
+兩個顏色相同的冰晶來解除
+鎖定。</entry>
+<entry name="SNOWBALL_DESCRIPTION">1個雪球 = 5步數</entry>
+<entry name="RESET_CONFIRMATION">確定要重置所有的遊戲進度嗎？</entry>
+<entry name="TUTORIAL_TROLL_MAGIC_ITEM">點擊佩比的魔怪之力來隨
+機生成一個技能或者道具。
+&lt;TOKEN&gt;</entry>
+<entry name="TUTORIAL_FREE_HOURGLASSES">你獲得了兩個沙漏來免費體驗！</entry>
+<entry name="UNLOCK_ICE_PICK">恭喜！你解鎖了冰錐道具！</entry>
+<entry name="LEVEL_CHOOSE_COMPANION">選擇夥伴</entry>
+<entry name="STORE_FAILED_TITLE">購買失敗</entry>
+<entry name="OUT_OF_LIVES">補充紅心</entry>
+<entry name="FINISH_GAME_MESSAGE">好厲害，你完成了現有的
+所有關卡！新關卡即將更
+新，請留意公告內容！</entry>
+<entry name="TUTORIAL_TORCH_ITEM">點擊安娜的火炬，然後選
+擇8個相連的冰晶來進行
+清除。
+&lt;TOKEN&gt;</entry>
+<entry name="MAP_OBJECTIVE_SNOW">清除雪塊</entry>
+<entry name="PURCHASES_WARNING">遊戲中的部分內容需要購買才能獲得。購買這些道具將會扣除你iTunes帳號中的真實貨幣。你可以通設備的設置功能來禁用遊戲內購買功能。</entry>
+<entry name="MUSIC">音樂：</entry>
+<entry name="HOME">主介面</entry>
+<entry name="TUTORIAL_GLACIER_ITEM">點擊艾莎的技能圖示，然後
+再選擇某個冰晶來消除掉所
+有顏色與之相同的冰晶。
+&lt;TOKEN&gt;</entry>
+<entry name="CREDITS_DISNEY">迪士尼</entry>
+<entry name="BUTTON_OK">確定</entry>
+<entry name="TORCH_DESCRIPTION">火焰消除技能可以消除
+掉你所選擇的8個相連
+的冰晶。</entry>
+<entry name="TUTORIAL_FROST">在冰霜上進行的匹配可以
+將其清除掉。現在就去試
+試，然後清除掉所有的冰
+霜吧！</entry>
+<entry name="HOT_CHOCOLATES">熱可可</entry>
+<entry name="MAP_OBJECTIVE_SCORE_TIME">限時得分</entry>
+<entry name="APP_RATE_BUTTON_CANCEL">以後再說</entry>
+<entry name="APP_RATE_BUTTON_RATE">評分</entry>
+<entry name="ICE_AXES">冰鎬</entry>
+<entry name="RESET_PROGRESS">重置</entry>
+<entry name="LOSE_CONTINUE_TIME">使用1個沙漏（+15秒）來繼續遊戲？</entry>
+<entry name="NO">取消</entry>
+<entry name="UNLOCK_ANNA_TORCH">恭喜！你解鎖了安娜和她的
+火焰消除技能！</entry>
+<entry name="TUTORIAL_MATCH_3">交換冰晶的位置來消除
+3個顏色相同的冰晶！</entry>
+<entry name="LOSE_FROST">你沒能清除掉所有的冰霜。</entry>
+<entry name="HOT_CHOCOLATE">熱可可</entry>
+<entry name="MENU_PLAY">開始</entry>
+<entry name="UNLOCK_OLAF_HOT_CHOCOLATE">恭喜！你解鎖了雪寶和他的
+熱可可技能！</entry>
+</entries>

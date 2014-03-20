@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unity3d.player"
+	android:installLocation="preferExternal"
+	android:theme="@android:style/Theme.NoTitleBar"
+    android:versionCode="5"
+    android:versionName="1.3.0">
+    <supports-screens
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+        android:anyDensity="true"/>
+
+
+        <application
+		android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:debuggable="true">
+        <activity android:name="com.prime31.UnityPlayerNativeActivity" android:screenOrientation="sensor"
+                  android:launchMode="singleTask"
+                  android:label="@string/app_name"
+                  android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="true" />
+        </activity>
+    
+		 <!-- start mobile mm -->
+		     <receiver
+            android:name="mm.sms.purchasesdk.sms.SMSReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="aspire.iap.SMS_SEND_ACTIOIN" />
+                <action android:name="aspire.iap.SMS_DELIVERED_ACTION" />
+            </intent-filter>
+        </receiver>
+        <!-- end mobile mm -->
+        
+		
+		<!--start time change  -->
+         <receiver android:name="com.mfp.receiver.TimeChangeReceiver">
+            <intent-filter><action android:name="android.intent.action.TIME_SET" /></intent-filter>
+        </receiver>
+      <!--end  time change --> 
+      
+      		<receiver android:name="com.mobilitygames.messagescontroller.AndroidNotificationBroadcaster"></receiver>
+      
+      <!-- 添加360SDK必需的activity：com.qihoopay.insdk.activity.ContainerActivity -->
+        <activity
+            android:name="com.qihoo.gamecenter.sdk.buildin.activity.ContainerActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.qihoopay.insdk.activity.RemoteContainerActivity"
+            android:configChanges="orientation|keyboardHidden|navigation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:process=":remote" >
+        </activity>
+        <activity
+            android:name=".activity.SdkWelcomeActivity"
+            android:configChanges="keyboardHidden|orientation">
+        </activity>	
+
+          <!-- 添加360SDK必需的activity：com.qihoopp.qcoinpay.QcoinActivity android:configChanges="fontScale|orientation|keyboardHidden|locale|navigation|screenSize|uiMode"-->
+        <activity
+            android:name="com.qihoopp.qcoinpay.QcoinActivity"
+            android:configChanges="fontScale|orientation|keyboardHidden|locale|navigation|screenSize|uiMode"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" >
+        </activity>
+        
+        <receiver android:name="com.qihoo.gamecenter.sdk.plugin.receiver.ScheduleReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.qihoo.gamecenter.sdk.plugin.scheduletask.action.response_message" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.qihoo.gamecenter.sdk.plugin.scheduletask.action.check_message" />
+            </intent-filter>
+        </receiver>
+        <!-- 添加360SDK必需的meta-data：QHOPENSDK_APPKEY。此处value为app_key。请在360应用开放平台http://open.app.360.cn/?from=open_dt注册申请app_key和app_secret -->
+        <meta-data
+            android:name="QIHOO_SDK_APPKEY"
+            android:value="fc2df3b00ca67446f6fb176534bf03cc" >
+        </meta-data>
+
+        <meta-data
+            android:name="QIHOO_SDK_PRIVATEKEY"
+            android:value="725b591e1be4e5905cf355a221098e20" >
+        </meta-data>
+
+        <!-- QIHOO_SDK_CHANNEL。此处value由应用方自定义，用于标识应用方的子渠道。渠道标识应该以qch_开头。 -->
+        <meta-data
+            android:name="QIHOO_SDK_CHANNEL"
+            android:value="default" >
+        </meta-data>
+        <!-- QIHOO_SDK_APPID。此处value由360应用平台分配 -->
+		<meta-data
+		    android:name="QIHOO_SDK_APPID"
+		    android:value="201238341" >
+		</meta-data>
+        
+</application>
+
+<!-- start mobile mm -->
+       <uses-permission android:name="android.permission.SEND_SMS" />
+	<uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+		<uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+		<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <!--end mobile mm -->
+        
+            <!--start unipay liantong-->
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <!--start MDO mobile-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    	<!--start dianxin egame-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+		<!--end dianxin egame-->
+	  <!--end MDO mobile-->
+	 <!--end unipay liantong-->
+	 
+	 		
+		<!-- start mobile game cn-->
+	<uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <!-- end mobile game cn--> 
+	
+	<!-- 添加360SDK必需要的权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+	<uses-permission android:name="android.permission.READ_SMS"/>
+	<uses-permission android:name="android.permission.WRITE_SMS"/>
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+	<uses-permission android:name="android.permission.GET_TASKS" />
+	
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+</manifest>

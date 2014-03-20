@@ -1,0 +1,656 @@
+<entries>
+<entry name="LIVES_NOTIFICATION_TITLE">Gioca a Frozen Lampi di Gemme</entry>
+<entry name="END_SHORT_WIN">Ben fatto!</entry>
+<entry name="ABOUT_TITLE">Frozen
+Lampi di Gemme</entry>
+<entry name="TUTORIAL_ITEM_TOKENS">Puoi provare 2
+potenziamenti gratis!</entry>
+<entry name="LEVEL_COMPANION">Il tuo compagno</entry>
+<entry name="TUTORIAL_CARROT_ITEM">Tocca la Carota di Sven
+per rompere 9 cristalli
+casuali. &lt;TOKEN&gt;</entry>
+<entry name="HELP_COMBOS">Combina i potenziamenti
+per scatenare un
+effetto devastante.</entry>
+<entry name="STORE_DISABLED_TITLE">Disattivato</entry>
+<entry name="GAME_TIME">Tempo</entry>
+<entry name="UNLOCK_KRISTOFF_ICE_AXE">Bene! Hai sbloccato
+Kristoff e il suo
+potenziamento Piccone!</entry>
+<entry name="PLAY_AGAIN">Gioca ancora</entry>
+<entry name="ON">Sì</entry>
+<entry name="TUTORIAL_ICEBERG">Combina i colori a T o a L
+per creare un Iceberg!
+Combinalo poi per rompere
+tutti i cristalli di 
+ghiaccio circostanti.</entry>
+<entry name="CREDITS_DISNEY_TITLES">PRODUCTION
+
+Managing Producer
+
+
+Technical Director
+
+
+Executive Producer
+
+
+MARKETING
+
+Director, Mobile
+Product Marketing
+
+
+Manager, Mobile
+Product Marketing
+
+
+
+CENTRAL CREATIVE
+
+Director, Games
+Content Development
+
+
+Director, Art &amp; Design
+
+
+Senior Manager,
+Game Design
+
+
+Lead Artist
+
+
+Coordinator, Games
+Content Development
+
+
+Associate Artist
+
+
+Undergraduate, Art Intern
+
+
+Graduate, Graphic
+Design Intern
+
+
+QUALITY ASSURANCE
+
+Director, Mobile QA &amp;
+Live Operations
+
+
+QA Supervisor
+
+
+QA Project Lead
+
+
+QA Testers
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</entry>
+<entry name="TUTORIAL_TAP">Tocca per continuare.</entry>
+<entry name="CARROT_DESCRIPTION">La Carota rompe
+9 pezzi casuali.</entry>
+<entry name="ITEM_TOKEN_DESCRIPTION">Tutti i personaggi
+possono usare i
+potenziamenti.</entry>
+<entry name="TROLL_MAGIC_DESCRIPTION">La Magia troll si
+trasforma in oggetto
+o potenziamento casuale.</entry>
+<entry name="ABOUT_CUSTOMER_SUPPORT">Assistenza</entry>
+<entry name="FINISH_GAME_TITLE">Fantastico!</entry>
+<entry name="WIN_SHORT_FREE_FALL">Lampi di
+Gemme!</entry>
+<entry name="TROLL_MAGIC">Magia troll</entry>
+<entry name="UNLOCK_HOURGLASS">Bene! Hai sbloccato
+la Clessidra!</entry>
+<entry name="UNLOCK_SVEN_CARROT">Bene! Hai sbloccato Sven
+e il suo potenziamento
+Carota!</entry>
+<entry name="LOSE_SNOW">Non hai rimosso
+tutta la neve.</entry>
+<entry name="FACEBOOK_LOGIN">Connettiti</entry>
+<entry name="LIFE_LOST">Hai perso 1 vita.</entry>
+<entry name="TUTORIAL_COMBINE">Combina 2 potenziamenti
+per un effetto devastante.
+Prova usando Ventogelo
+e Iceberg!</entry>
+<entry name="EXIT_CONFIRMATION">Chiudere l&apos;applicazione?</entry>
+<entry name="GAME_OBJECTIVE_TARGET_TILES">Elimina i 
+cristalli di
+ghiaccio richiesti</entry>
+<entry name="ABOUT_PUBLISHER">Pubblicato da 
+Disney Mobile
+©2013 Disney</entry>
+<entry name="CREDITS_MOBILITY">MOBILITY GAMES</entry>
+<entry name="GAME_OBJECTIVE_SNOW">Rimuovi tutta
+la neve dal
+tabellone!</entry>
+<entry name="GAME_OBJECTIVE_SCORE">Ottieni i punti
+richiesti prima di
+esaurire le MOSSE!</entry>
+<entry name="LOSE_SCORE">Non hai raggiunto il
+punteggio richiesto.</entry>
+<entry name="SOUND">Effetti:</entry>
+<entry name="ABOUT_PRIVACY_POLICY">Privacy</entry>
+<entry name="GLACIERS">Fiocchi</entry>
+<entry name="LOADING">Caricamento
+in corso…</entry>
+<entry name="TUTORIAL_ICE_AXE_ITEM">Tocca il Piccone di
+Kristoff per rompere 6
+cristalli casuali
+ghiacciati. &lt;TOKEN&gt;</entry>
+<entry name="GAME_SCORE">Punti</entry>
+<entry name="ABOUT_DEVELOPER">Sviluppato da</entry>
+<entry name="HELP_SPECIALS">Combina 4 o 5 cristalli
+facendo forme diverse per
+creare Ventogelo, Iceberg
+o Fiocco.</entry>
+<entry name="SWORD">Spada</entry>
+<entry name="BEST">Migliore</entry>
+<entry name="HELP_WINDCHILL">4 in fila = Ventogelo</entry>
+<entry name="LEVEL_NAME">Livello</entry>
+<entry name="STORE_PURCHASED_TITLE">Acquisto effettuato</entry>
+<entry name="LOSE_CONTINUE_MOVES">Usare 1 Palla di neve 
+(+5 mosse) per 
+continuare?</entry>
+<entry name="GET_MORE_TOKENS">Altri potenziamenti</entry>
+<entry name="CREDITS">RICONOSCIMENTI</entry>
+<entry name="LOSE_TARGET_TILES">Non hai eliminato
+tutti i cristalli
+richiesti.</entry>
+<entry name="TROLL_MAGICS">Magie troll</entry>
+<entry name="LEVEL_TARGET_SCORE">P.ti richiesti:</entry>
+<entry name="CREDITS_MOBILITY_TITLES">Executive Producer
+
+
+Game Producer
+
+
+Technical Lead
+
+
+Lead Artist
+
+
+Technical Artist
+
+
+Animation Lead
+
+
+Programmers
+
+
+
+Artists
+
+
+
+Level Designers
+
+
+
+QA
+
+
+
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY">Come giocare</entry>
+<entry name="NEXT_LEVEL">Livello succ.</entry>
+<entry name="SNOWBALLS">Palle di neve</entry>
+<entry name="CREDITS_DISNEY_NAMES">&lt;SPACE&gt;
+
+
+Ryan Winterholler
+
+
+Binh Nguyen
+
+
+Scott Humphries
+
+
+
+
+
+Patrick W Sager
+
+
+
+Jenn Lim
+Linda Lee
+
+
+
+
+
+Luigi Priore
+
+
+Will Rosas
+
+
+
+Brian Gomez
+
+
+Young Choi
+
+
+
+Siobhan Vanaman
+
+
+Tim Tsang
+
+
+Yannan (Connie) Kang
+
+
+
+Vanessa Luo
+
+
+
+
+
+Marietta Pashayan
+
+
+Natascha A Thomas
+
+
+Bobby Munguia
+
+
+Adam Hale
+Adrian Pitones
+Alen Khanyan
+Belinda Louie
+Carlos Barata
+Carlos Flores
+John Pfund
+Kevin Skorcz
+Rachel Hassid
+
+
+
+Adam Landenberger
+Alex Sherer
+Amir Hematyar
+Amy M Kreutzen
+Angeline Huang
+Brice Bonnet
+Christian Garelli
+Clay Barlow
+Corey Valencia
+Cyril Bornette
+Daniel Plant
+Dorothee Pinlet
+Eric Rodriguez
+Flavia Timiani
+Greg Hayes
+Jason Blanco
+Jeremy Besson
+Jerome B Turnbull
+Johnathan Thompson
+Josh Valensi
+Kasim Rehman
+Katrina Tough
+Kelly White
+Manuel Germain Kedi
+Manuel Redruello
+Matt Bergeron
+Megan Thompson
+Michael Gortz
+Mihai Pohontu
+Molly Petullo
+Nicholas Gallant
+Pam Pilouk
+Patricia Myers
+Peter Geiss
+Phillip Batch
+Robert Kalutkiewicz
+Shin Park
+Sonia Souto-Sieiro
+Stephanie Martinelli
+Yousuf Bhaijee
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY_TITLE">Come giocare</entry>
+<entry name="SCORE_SEPARATOR">.</entry>
+<entry name="LOSE_TIME">Tempo scaduto!</entry>
+<entry name="SWORDS">Spade</entry>
+<entry name="REMAINING_TOKENS">Potenziam. rimasti</entry>
+<entry name="LINK_CONFIRMATION">Aprire il link e
+uscire dal gioco?</entry>
+<entry name="TUTORIAL_MULTIPLIER">CONSIGLIO: Non riesci a raggiungere
+il punteggio richiesto? Crea
+combinazioni velocemente per
+ottenere moltiplicatori di punti.</entry>
+<entry name="GAME_OBJECTIVE_DROP_TILES">Fai cadere gli
+oggetti sul fondo
+del tabellone!</entry>
+<entry name="OFF">No</entry>
+<entry name="MAP_OBJECTIVE_FROST">Rimuovi ghiaccio</entry>
+<entry name="TORCHES">Torce</entry>
+<entry name="END_SHORT_WIN_GREAT">Fantastico!</entry>
+<entry name="YES">Sì</entry>
+<entry name="CONGRATULATIONS">Complimenti!</entry>
+<entry name="LOST_LIFE">Hai perso
+1 vita.</entry>
+<entry name="ICE_AXE">Piccone</entry>
+<entry name="STORE_FAILED_TEXT">Acquisto non riuscito.
+Verifica le impostazioni
+di rete e riprova.</entry>
+<entry name="UNLOCK_PABBIE_TROLL_MAGIC">Bene! Hai sbloccato Granpapà
+e il suo potenziamento
+Magia troll!</entry>
+<entry name="PURCHASE">Acquista</entry>
+<entry name="STORE_PURCHASED_TEXT">Complimenti!
+Hai effettuato l&apos;acquisto!</entry>
+<entry name="TUTORIAL_FREEZER">Il pezzo freezer è simile
+al pezzo neve, ma si espande
+a un pezzo vicino per ogni
+turno in cui nessun freezer
+è rotto.</entry>
+<entry name="LEVEL_OBJECTIVE_TARGET_TILES">Distruggi
+i pezzi
+bersaglio</entry>
+<entry name="SWORD_DESCRIPTION">La Spada rompe i pezzi
+quando fai scorrere il dito
+sul tabellone.</entry>
+<entry name="STORE_DISABLED_TEXT">Acquisti In-app disattivati.
+Attivali nelle impostazioni del
+dispositivo e riprova.</entry>
+<entry name="STORE_WAITING_TITLE">Attendi</entry>
+<entry name="CARROTS">Carote</entry>
+<entry name="HELP_OBJECTIVES">Completa l&apos;obiettivo di
+ogni livello e raggiungi i
+punti richiesti per
+procedere nella storia e
+sbloccare nuovi livelli.</entry>
+<entry name="TUTORIAL_SNOW_TILE">La neve può essere rotta
+creando una combinazione
+accanto a essa. Prova e
+rimuovi tutta la neve
+dal tabellone!</entry>
+<entry name="LIVES_NOTIFICATION_MESSAGE">Hai un set completo di vite. Torna a GIOCARE!</entry>
+<entry name="TUTORIAL_SNOWBALL_ITEM">Tocca la Palla di neve per
+ricevere 5 mosse extra.
+&lt;FREE_SNOWBALLS&gt;</entry>
+<entry name="GAME_OBJECTIVE_FROST">Rimuovi tutto
+il ghiaccio dal
+tabellone!</entry>
+<entry name="APP_RATE_BUTTON_NEVER">Non valutare mai</entry>
+<entry name="ABOUT_TERMS_OF_USE">Condizioni d&apos;uso</entry>
+<entry name="HELP_ICEBERG">Forma T o L = Iceberg</entry>
+<entry name="ABOUT_VERSION">Versione 1.0.0</entry>
+<entry name="GLACIER">Fiocco</entry>
+<entry name="TUTORIAL_ICE_PICK_ITEM">Tocca il Rompighiaccio,
+poi seleziona un cristallo
+per romperlo. &lt;FREE_ICE_PICKS&gt;</entry>
+<entry name="END_SHORT_LOSE">Peccato!</entry>
+<entry name="LOSE_MOVES">Mosse esaurite!</entry>
+<entry name="MAP_OBJECTIVE_TARGET_TILES">Eliminazione</entry>
+<entry name="CREDITS_MOBILITY_NAMES">&lt;SPACE&gt;
+Constantin Marcu
+
+
+Catalin Marcu
+
+
+Florin Covit
+
+
+Petru Neacsu
+
+
+Alexandru Boaca
+
+
+Ciprian Adumitroaei
+
+
+Andrei Miorcaneanu
+Juan Jose Lopez Cucurella
+
+
+Ioan Chirita
+Lidia Macovei
+
+
+Andrei Patrascu
+Iulius Maxim
+
+
+Paul Marcu
+Ada Iacob
+Mihai Simion
+&lt;SPACE&gt;</entry>
+<entry name="TUTORIAL_FREE_SNOWBALLS">Puoi provare 2
+Palle di neve gratis!</entry>
+<entry name="GAME_OBJECTIVE_SCORE_TIME">Ottieni i punti
+richiesti prima
+che scada il tempo!</entry>
+<entry name="GAME_MOVES">Mosse</entry>
+<entry name="TUTORIAL_FREE_ICE_PICKS">Puoi provare 2
+Rompighiaccio gratis!</entry>
+<entry name="ICE_AXE_DESCRIPTION">Il Piccone rompe
+6 pezzi casuali.</entry>
+<entry name="TUTORIAL_GLACIER">Combina 5 colori in fila
+per creare un Fiocco!
+Scambialo poi con un 
+cristallo e rompi tutti quelli
+dello stesso colore.</entry>
+<entry name="TUTORIAL_SWORD_ITEM">Tocca la Spada di Hans e
+scorri sul tabellone per
+rompere i cristalli.
+&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICK_DESCRIPTION">Il Rompighiaccio rompe
+1 pezzo selezionato.</entry>
+<entry name="RESHUFFLE_MESSAGE">Mosse esaurite.
+Rimescoliamo!</entry>
+<entry name="END_SHORT_WIN_GOOD">Eccellente!</entry>
+<entry name="HOURGLASS_DESCRIPTION">1 Clessidra
+=
+15 secondi</entry>
+<entry name="FINISH_GAME_BUTTON">Incredibile!</entry>
+<entry name="ABOUT">Informazioni</entry>
+<entry name="TUTORIAL_HOURGLASS_ITEM">Tocca la Clessidra per
+ricevere 15 secondi extra.
+&lt;FREE_HOURGLASSES&gt;</entry>
+<entry name="TUTORIAL_HOT_CHOCOLATE_ITEM">Tocca la Cioccolata di
+Olaf e poi un cristallo
+per cambiarlo nel tipo
+desiderato. &lt;TOKEN&gt;</entry>
+<entry name="ICE_PICKS">Rompighiaccio</entry>
+<entry name="MAP_OBJECTIVE_SCORE">Punti richiesti</entry>
+<entry name="UNLOCK_SNOWBALL">Bene! Hai sbloccato
+la Palla di neve!</entry>
+<entry name="EXIT">Esci dal gioco</entry>
+<entry name="HELP_MATCH">Tocca un cristallo di
+ghiaccio e trascinalo
+con il dito. Combina 3
+cristalli dello stesso
+colore per romperli e
+ottenere punti.</entry>
+<entry name="HELP_MULTIPLIER">CONSIGLIO: Non riesci
+a raggiungere il
+punteggio richiesto?
+Crea combinazioni
+velocemente per
+ottenere moltiplicatori
+di punti.</entry>
+<entry name="HELP_GLACIER">5 in fila = Fiocco</entry>
+<entry name="APP_RATE_MESSAGE">Se Frozen Lampi di Gemme ti piace, ti invitiamo a valutarlo.</entry>
+<entry name="GAME_SECONDS">Secondi</entry>
+<entry name="LOSE_DROP_TILES">Non hai fatto 
+cadere tutti gli
+oggetti speciali.</entry>
+<entry name="CARROT">Carota</entry>
+<entry name="HOT_CHOCOLATE_DESCRIPTION">La Cioccolata
+fa un po&apos; di cose.</entry>
+<entry name="HELP_FUN">Divertiti!</entry>
+<entry name="LEVEL_OBJECTIVE">Obiettivo:</entry>
+<entry name="RETRY">Riprova liv.</entry>
+<entry name="UNLOCK_ELSA_GLACIER">Bene! Hai sbloccato Elsa
+e il suo potenziamento
+Fiocco!</entry>
+<entry name="PURCHASES_WARNING_TITLE">Info su acquisti In-app</entry>
+<entry name="ICE_PICK">Rompighiaccio</entry>
+<entry name="CONTINUE">Continua</entry>
+<entry name="SNOWBALL">Palla di neve</entry>
+<entry name="NO_MORE_MOVES">Mosse esaurite.
+Prova a usare un potenziamento!</entry>
+<entry name="FACEBOOK_LOGOUT">Esci</entry>
+<entry name="MORE_DISNEY">Scopri Disney</entry>
+<entry name="TORCH">Torcia</entry>
+<entry name="MAP_OBJECTIVE_DROP_TILES">Caduta oggetti</entry>
+<entry name="LEVEL_TARGET">Obiett.:</entry>
+<entry name="BUY_ITEMS">Altri oggetti</entry>
+<entry name="TUTORIAL_WINTERCHILL">Combina 4 colori in fila
+per creare un Ventogelo!
+Combinalo poi per rompere
+tutti i cristalli di
+ghiaccio che incontra.</entry>
+<entry name="GLACIER_DESCRIPTION">Il Fiocco di neve rompe
+tutti i pezzi del
+colore selezionato.</entry>
+<entry name="UNLOCK_HANS_SWORD">Bene! Hai sbloccato Hans
+e il suo potenziamento
+Spada!</entry>
+<entry name="ABOUT_VISIT">Vieni a trovarci: 
+http://disney.go.com/index</entry>
+<entry name="STORE_WAITING_TEXT">Attendi il negozio...</entry>
+<entry name="TUTORIAL_LOCKED_TILE">Il pezzo bloccato può
+essere rotto combinandolo
+con 2 cristalli dello
+stesso colore.</entry>
+<entry name="SNOWBALL_DESCRIPTION">1 Palla di neve
+=
+5 mosse</entry>
+<entry name="RESET_CONFIRMATION">Eliminare tutti i progressi?</entry>
+<entry name="TUTORIAL_TROLL_MAGIC_ITEM">Tocca la Magia troll di
+Granpapà per ottenere un
+oggetto casuale da usare.
+&lt;TOKEN&gt;</entry>
+<entry name="TUTORIAL_FREE_HOURGLASSES">Puoi provare 2
+Clessidre gratis!</entry>
+<entry name="UNLOCK_ICE_PICK">Bene! Hai sbloccato
+il Rompighiaccio!</entry>
+<entry name="LEVEL_CHOOSE_COMPANION">Scegli compagno</entry>
+<entry name="STORE_FAILED_TITLE">Acquisto non riuscito</entry>
+<entry name="OUT_OF_LIVES">Recupera vite</entry>
+<entry name="FINISH_GAME_MESSAGE">Livelli completati!
+Nuovi livelli
+PRESTO IN ARRIVO!</entry>
+<entry name="TUTORIAL_TORCH_ITEM">Tocca la Torcia di Anna e
+seleziona 8 cristalli
+collegati per romperli.
+&lt;TOKEN&gt;</entry>
+<entry name="MAP_OBJECTIVE_SNOW">Rimuovi neve</entry>
+<entry name="PURCHASES_WARNING">Puoi acquistare contenuti
+aggiuntivi per Frozen Lampi di
+Gemme. L&apos;acquisto costa soldi
+reali che saranno addebitati
+sul tuo account iTunes. Regola
+le impostazioni del tuo
+dispositivo per impedire
+l&apos;acquisto In-app.</entry>
+<entry name="MUSIC">Musica:</entry>
+<entry name="HOME">Inizio</entry>
+<entry name="TUTORIAL_GLACIER_ITEM">Tocca il Fiocco di Elsa e
+seleziona un cristallo per
+rompere quelli dello
+stesso colore. &lt;TOKEN&gt;</entry>
+<entry name="CREDITS_DISNEY">DISNEY</entry>
+<entry name="BUTTON_OK">OK</entry>
+<entry name="TORCH_DESCRIPTION">La Torcia rompe
+8 pezzi collegati
+a tua scelta.</entry>
+<entry name="TUTORIAL_FROST">Il ghiaccio può essere
+rotto creando una
+combinazione accanto 
+a esso. Prova e rimuovilo
+tutto dal tabellone!</entry>
+<entry name="HOT_CHOCOLATES">Cioccolate</entry>
+<entry name="MAP_OBJECTIVE_SCORE_TIME">Corsa a tempo</entry>
+<entry name="APP_RATE_BUTTON_CANCEL">Valuta più tardi</entry>
+<entry name="APP_RATE_BUTTON_RATE">Valuta questa app</entry>
+<entry name="ICE_AXES">Picconi</entry>
+<entry name="RESET_PROGRESS">Reimposta</entry>
+<entry name="LOSE_CONTINUE_TIME">Usare 1 Clessidra 
+(+15 secondi) per 
+continuare?</entry>
+<entry name="NO">No</entry>
+<entry name="UNLOCK_ANNA_TORCH">Bene! Hai sbloccato Anna
+e il suo potenziamento
+Torcia!</entry>
+<entry name="TUTORIAL_MATCH_3">Fai scorrere il dito sui
+cristalli di ghiaccio per
+combinarne 3 dello stesso
+colore!</entry>
+<entry name="LOSE_FROST">Non hai rimosso
+tutto il ghiaccio.</entry>
+<entry name="HOT_CHOCOLATE">Cioccolata</entry>
+<entry name="MENU_PLAY">Gioca</entry>
+<entry name="UNLOCK_OLAF_HOT_CHOCOLATE">Bene! Hai sbloccato Olaf
+e il suo potenziamento
+Cioccolata!</entry>
+<entry name="APP_RATE_TITLE">Valuta Frozen Lampi di Gemme</entry>
+</entries>

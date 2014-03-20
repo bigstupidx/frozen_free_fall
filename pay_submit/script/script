@@ -1,0 +1,27 @@
+联通（com.mfp.frozen.unicom）  
+电信自有的包（com.mfp.frozen.playgame）  
+电信渠道的包（com.mfp.frozen.playgame.disney） 
+移动MM（com.mfp.frozen.playgame.disney）
+移动游戏基地（com.mfp.frozen.playgame.disney）
+
+
+先切换到目录下：frozen_new/pay_submit/script
+-- 联通自有
+cp -r ../unicom_self/* ../../FrozenPrototype/Assets/Plugins/Android/
+rm -rf ../../FrozenPrototype/Assets/Plugins/Android/smspayforegame.jar
+
+--电信自有
+cp -r ../playgame_self/* ../../FrozenPrototype/Assets/Plugins/Android/
+rm -rf ../../FrozenPrototype/Assets/Plugins/Android/smspayforchannel.jar
+
+－－电信外放
+cp -r ../playgame_out/* ../../FrozenPrototype/Assets/Plugins/Android/
+rm -rf ../../FrozenPrototype/Assets/Plugins/Android/smspayforegame.jar
+
+－－移动MM
+cp -r ../playgame_out/* ../../FrozenPrototype/Assets/Plugins/Android/
+rm -rf ../../FrozenPrototype/Assets/Plugins/Android/smspayforegame.jar
+
+－－MDO 备案包
+配置与移动MM 和电信外放同；
+修改后台请求 地址；

@@ -1,0 +1,660 @@
+<entries>
+<entry name="LIVES_NOTIFICATION_TITLE">Jouer à Free Fall</entry>
+<entry name="END_SHORT_WIN">Bien joué !</entry>
+<entry name="ABOUT_TITLE">La Reine des Neiges
+Free Fall</entry>
+<entry name="TUTORIAL_ITEM_TOKENS">Tu as 2 bonus à
+essayer gratuitement !</entry>
+<entry name="LEVEL_COMPANION">Ton compagnon</entry>
+<entry name="TUTORIAL_CARROT_ITEM">Touche la carotte de Sven
+pour détruire 9 cristaux
+aléatoires. &lt;TOKEN&gt;</entry>
+<entry name="HELP_COMBOS">Combine les bonus
+pour déclencher
+de puissants effets.</entry>
+<entry name="STORE_DISABLED_TITLE">Achats désactivés</entry>
+<entry name="GAME_TIME">Temps</entry>
+<entry name="UNLOCK_KRISTOFF_ICE_AXE">Bravo ! Tu as débloqué
+Kristoff et son bonus,
+la hache !</entry>
+<entry name="PLAY_AGAIN">Rejouer</entry>
+<entry name="ON">Oui</entry>
+<entry name="TUTORIAL_ICEBERG">Fais des associations en
+T ou en L pour créer
+un iceberg ! Associe-le
+pour détruire tous les
+cristaux autour de lui.</entry>
+<entry name="CREDITS_DISNEY_TITLES">PRODUCTION
+
+Managing Producer
+
+
+Technical Director
+
+
+Executive Producer
+
+
+MARKETING
+
+Director, Mobile
+Product Marketing
+
+
+Manager, Mobile
+Product Marketing
+
+
+
+CENTRAL CREATIVE
+
+Director, Games
+Content Development
+
+
+Director, Art &amp; Design
+
+
+Senior Manager,
+Game Design
+
+
+Lead Artist
+
+
+Coordinator, Games
+Content Development
+
+
+Associate Artist
+
+
+Undergraduate, Art Intern
+
+
+Graduate, Graphic
+Design Intern
+
+
+QUALITY ASSURANCE
+
+Director, Mobile QA &amp;
+Live Operations
+
+
+QA Supervisor
+
+
+QA Project Lead
+
+
+QA Testers
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</entry>
+<entry name="TUTORIAL_TAP">Touche pour continuer.</entry>
+<entry name="CARROT_DESCRIPTION">La carotte détruit
+9 cases aléatoires.</entry>
+<entry name="ITEM_TOKEN_DESCRIPTION">Les bonus s&apos;utilisent
+avec tout le monde.</entry>
+<entry name="TROLL_MAGIC_DESCRIPTION">Le sort de troll se
+transforme en bonus
+ou objet aléatoire.</entry>
+<entry name="ABOUT_CUSTOMER_SUPPORT">Service clientèle</entry>
+<entry name="FINISH_GAME_TITLE">Bravo !</entry>
+<entry name="WIN_SHORT_FREE_FALL">Free Fall !</entry>
+<entry name="TROLL_MAGIC">Sort de troll</entry>
+<entry name="UNLOCK_HOURGLASS">Bravo ! Tu as débloqué
+le sablier !</entry>
+<entry name="UNLOCK_SVEN_CARROT">Bravo ! Tu as débloqué
+Sven et son bonus,
+la carotte !</entry>
+<entry name="LOSE_SNOW">Tu n&apos;as pas fait
+disparaître toute
+la neige.</entry>
+<entry name="FACEBOOK_LOGIN">Connexion</entry>
+<entry name="LIFE_LOST">Tu as perdu 1 vie.</entry>
+<entry name="TUTORIAL_COMBINE">Combine 2 bonus pour
+créer un puissant effet.
+Fais un essai avec le
+blizzard et l&apos;iceberg.</entry>
+<entry name="EXIT_CONFIRMATION">Fermer l&apos;application ?</entry>
+<entry name="GAME_OBJECTIVE_TARGET_TILES">Détruis tous les
+cristaux requis !</entry>
+<entry name="ABOUT_PUBLISHER">Édité par 
+Disney Mobile
+©2013 Disney</entry>
+<entry name="CREDITS_MOBILITY">MOBILITY GAMES</entry>
+<entry name="GAME_OBJECTIVE_SNOW">Fais disparaître
+toute la neige de
+la grille !</entry>
+<entry name="GAME_OBJECTIVE_SCORE">Atteins le score
+cible avant d&apos;être
+à court de coups !</entry>
+<entry name="LOSE_SCORE">Tu n&apos;as pas
+atteint le score
+cible.</entry>
+<entry name="SOUND">Son :</entry>
+<entry name="ABOUT_PRIVACY_POLICY">Charte de confident.</entry>
+<entry name="GLACIERS">Glaciers</entry>
+<entry name="LOADING">Chargement
+en cours...</entry>
+<entry name="TUTORIAL_ICE_AXE_ITEM">Touche la hache de
+Kristoff pour détruire 6
+cristaux aléatoires
+sur du givre. &lt;TOKEN&gt;</entry>
+<entry name="GAME_SCORE">Score&lt;SPACE&gt;</entry>
+<entry name="ABOUT_DEVELOPER">Développé par</entry>
+<entry name="HELP_SPECIALS">Associe 4 ou 5 cristaux
+en faisant différentes
+formes pour créer un
+blizzard, un iceberg ou
+un glacier.</entry>
+<entry name="SWORD">Épée</entry>
+<entry name="BEST">Meilleur&lt;SPACE&gt;</entry>
+<entry name="HELP_WINDCHILL">4 en ligne = Blizzard</entry>
+<entry name="LEVEL_NAME">Niveau</entry>
+<entry name="STORE_PURCHASED_TITLE">Achat réussi</entry>
+<entry name="LOSE_CONTINUE_MOVES">Utiliser 1 boule de
+neige (+5 coups)
+pour continuer ?</entry>
+<entry name="GET_MORE_TOKENS">Obtenir des bonus</entry>
+<entry name="CREDITS">CREDITS</entry>
+<entry name="LOSE_TARGET_TILES">Tu n&apos;as pas
+détruit tous les
+cristaux requis.</entry>
+<entry name="TROLL_MAGICS">Sorts de troll</entry>
+<entry name="LEVEL_TARGET_SCORE">Score cible :</entry>
+<entry name="CREDITS_MOBILITY_TITLES">Executive Producer
+
+
+Game Producer
+
+
+Technical Lead
+
+
+Lead Artist
+
+
+Technical Artist
+
+
+Animation Lead
+
+
+Programmers
+
+
+
+Artists
+
+
+
+Level Designers
+
+
+
+QA
+
+
+
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY">Instructions</entry>
+<entry name="NEXT_LEVEL">Niveau suivant</entry>
+<entry name="SNOWBALLS">Boules</entry>
+<entry name="CREDITS_DISNEY_NAMES">&lt;SPACE&gt;
+
+
+Ryan Winterholler
+
+
+Binh Nguyen
+
+
+Scott Humphries
+
+
+
+
+
+Patrick W Sager
+
+
+
+Jenn Lim
+Linda Lee
+
+
+
+
+
+Luigi Priore
+
+
+Will Rosas
+
+
+
+Brian Gomez
+
+
+Young Choi
+
+
+
+Siobhan Vanaman
+
+
+Tim Tsang
+
+
+Yannan (Connie) Kang
+
+
+
+Vanessa Luo
+
+
+
+
+
+Marietta Pashayan
+
+
+Natascha A Thomas
+
+
+Bobby Munguia
+
+
+Adam Hale
+Adrian Pitones
+Alen Khanyan
+Belinda Louie
+Carlos Barata
+Carlos Flores
+John Pfund
+Kevin Skorcz
+Rachel Hassid
+
+
+
+Adam Landenberger
+Alex Sherer
+Amir Hematyar
+Amy M Kreutzen
+Angeline Huang
+Brice Bonnet
+Christian Garelli
+Clay Barlow
+Corey Valencia
+Cyril Bornette
+Daniel Plant
+Dorothee Pinlet
+Eric Rodriguez
+Flavia Timiani
+Greg Hayes
+Jason Blanco
+Jeremy Besson
+Jerome B Turnbull
+Johnathan Thompson
+Josh Valensi
+Kasim Rehman
+Katrina Tough
+Kelly White
+Manuel Germain Kedi
+Manuel Redruello
+Matt Bergeron
+Megan Thompson
+Michael Gortz
+Mihai Pohontu
+Molly Petullo
+Nicholas Gallant
+Pam Pilouk
+Patricia Myers
+Peter Geiss
+Phillip Batch
+Robert Kalutkiewicz
+Shin Park
+Sonia Souto-Sieiro
+Stephanie Martinelli
+Yousuf Bhaijee
+&lt;SPACE&gt;</entry>
+<entry name="HOW_TO_PLAY_TITLE">Instructions</entry>
+<entry name="SCORE_SEPARATOR">&lt;SPACE&gt;</entry>
+<entry name="LOSE_TIME">Temps écoulé !</entry>
+<entry name="SWORDS">Épées</entry>
+<entry name="REMAINING_TOKENS">Bonus restants&lt;SPACE&gt;</entry>
+<entry name="LINK_CONFIRMATION">Ouvrir le lien et
+quitter le jeu ?</entry>
+<entry name="TUTORIAL_MULTIPLIER">ASTUCE : Tu as du mal à
+atteindre le score cible ? Fais
+des combos rapides pour obtenir
+des multiplicateurs de score.</entry>
+<entry name="GAME_OBJECTIVE_DROP_TILES">Fais descendre les
+objets spéciaux en
+bas de l&apos;écran !</entry>
+<entry name="OFF">Non</entry>
+<entry name="MAP_OBJECTIVE_FROST">Retire le givre</entry>
+<entry name="TORCHES">Torches</entry>
+<entry name="END_SHORT_WIN_GREAT">Incroyable !</entry>
+<entry name="YES">Oui</entry>
+<entry name="CONGRATULATIONS">Bravo !</entry>
+<entry name="LOST_LIFE">Tu as perdu
+1 vie.</entry>
+<entry name="ICE_AXE">Hache</entry>
+<entry name="STORE_FAILED_TEXT">Échec de l&apos;achat. Vérifier les
+paramètres réseau et réessayer
+plus tard.</entry>
+<entry name="UNLOCK_PABBIE_TROLL_MAGIC">Bravo ! Tu as débloqué
+GrandPabbie et son bonus,
+le sort de troll !</entry>
+<entry name="PURCHASE">Acheter</entry>
+<entry name="STORE_PURCHASED_TEXT">Bravo, l&apos;achat a bien été
+effectué !</entry>
+<entry name="TUTORIAL_FREEZER">Le gel ressemble à la
+neige, mais il se propage
+sur une case adjacente
+à chaque tour tant qu&apos;il
+n&apos;est pas détruit.</entry>
+<entry name="LEVEL_OBJECTIVE_TARGET_TILES">Détruis les
+cases cibles</entry>
+<entry name="SWORD_DESCRIPTION">L&apos;épée détruit les cases
+quand tu balaies l&apos;écran.</entry>
+<entry name="STORE_DISABLED_TEXT">Achats intégrés désactivés.
+Les activer dans les paramètres
+de l&apos;appareil et réessayer.</entry>
+<entry name="STORE_WAITING_TITLE">En attente</entry>
+<entry name="CARROTS">Carottes</entry>
+<entry name="HELP_OBJECTIVES">Accomplis l&apos;objectif de
+chaque niveau et bats
+le score cible pour faire
+avancer l&apos;histoire et
+débloquer de nouveaux
+niveaux.</entry>
+<entry name="TUTORIAL_SNOW_TILE">Pour détruire la neige,
+fais une association
+à côté. Essaie de faire
+disparaître toute la
+neige de la grille !</entry>
+<entry name="LIVES_NOTIFICATION_MESSAGE">Tu possèdes tout un stock de vies. Reviens vite JOUER !</entry>
+<entry name="TUTORIAL_SNOWBALL_ITEM">Touche la boule de neige
+pour gagner 5 coups
+supplémentaires.
+&lt;FREE_SNOWBALLS&gt;</entry>
+<entry name="GAME_OBJECTIVE_FROST">Fais disparaître
+tout le givre de
+la grille !</entry>
+<entry name="APP_RATE_BUTTON_NEVER">Ne jamais noter</entry>
+<entry name="ABOUT_TERMS_OF_USE">Cond. d&apos;utilisation</entry>
+<entry name="HELP_ICEBERG">Forme de T ou de L = Iceberg</entry>
+<entry name="ABOUT_VERSION">Version 1.0.0</entry>
+<entry name="GLACIER">Glacier</entry>
+<entry name="TUTORIAL_ICE_PICK_ITEM">Touche le pic à glace,
+puis sélectionne un
+cristal pour le détruire.
+&lt;FREE_ICE_PICKS&gt;</entry>
+<entry name="END_SHORT_LOSE">Dommage !</entry>
+<entry name="LOSE_MOVES">Plus de coups !</entry>
+<entry name="MAP_OBJECTIVE_TARGET_TILES">Destruction</entry>
+<entry name="CREDITS_MOBILITY_NAMES">&lt;SPACE&gt;
+Constantin Marcu
+
+
+Catalin Marcu
+
+
+Florin Covit
+
+
+Petru Neacsu
+
+
+Alexandru Boaca
+
+
+Ciprian Adumitroaei
+
+
+Andrei Miorcaneanu
+Juan Jose Lopez Cucurella
+
+
+Ioan Chirita
+Lidia Macovei
+
+
+Andrei Patrascu
+Iulius Maxim
+
+
+Paul Marcu
+Ada Iacob
+Mihai Simion
+&lt;SPACE&gt;</entry>
+<entry name="TUTORIAL_FREE_SNOWBALLS">Tu as 2 boules de neige à
+essayer gratuitement !</entry>
+<entry name="GAME_OBJECTIVE_SCORE_TIME">Atteins le score
+cible dans le
+temps imparti !</entry>
+<entry name="GAME_MOVES">Coups</entry>
+<entry name="TUTORIAL_FREE_ICE_PICKS">Tu as 2 pics à glace à
+essayer gratuitement !</entry>
+<entry name="ICE_AXE_DESCRIPTION">La hache détruit
+6 cases aléatoires.</entry>
+<entry name="TUTORIAL_GLACIER">5 associations d&apos;affilée
+créent un glacier !
+Associe-le à un cristal
+pour détruire tous les
+cristaux de même couleur.</entry>
+<entry name="TUTORIAL_SWORD_ITEM">Touche l&apos;épée de Hans,
+puis balaie l&apos;écran pour
+détruire les cristaux.
+&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICK_DESCRIPTION">Le pic à glace détruit
+1 case sélectionnée.</entry>
+<entry name="RESHUFFLE_MESSAGE">Plus de coups.
+Mélange de
+la grille !</entry>
+<entry name="END_SHORT_WIN_GOOD">Excellent !</entry>
+<entry name="HOURGLASS_DESCRIPTION">1 sablier
+=
+15 secondes</entry>
+<entry name="FINISH_GAME_BUTTON">Génial !</entry>
+<entry name="ABOUT">Informations</entry>
+<entry name="TUTORIAL_HOURGLASS_ITEM">Touche le sablier pour
+gagner 15 secondes
+supplémentaires. 
+&lt;FREE_HOURGLASSES&gt;</entry>
+<entry name="TUTORIAL_HOT_CHOCOLATE_ITEM">Touche le chocolat chaud
+d&apos;Olaf, puis choisis un
+cristal pour le changer
+en cristal requis.
+&lt;TOKEN&gt;</entry>
+<entry name="ICE_PICKS">Pics à glace</entry>
+<entry name="MAP_OBJECTIVE_SCORE">Score cible</entry>
+<entry name="UNLOCK_SNOWBALL">Bravo ! Tu as débloqué
+la boule de neige !</entry>
+<entry name="EXIT">Quitter</entry>
+<entry name="HELP_MATCH">Touche un cristal et 
+fais-le glisser avec ton
+doigt. Associe 3 cristaux
+de même couleur pour
+les détruire et marquer
+des points.</entry>
+<entry name="HELP_MULTIPLIER">ASTUCE : Tu as du mal
+à atteindre le score
+cible ? Fais des
+combos rapides pour
+obtenir des
+multiplicateurs
+de score.</entry>
+<entry name="HELP_GLACIER">Série de 5 = Glacier</entry>
+<entry name="APP_RATE_MESSAGE">Si tu aimes jouer à La Reine des Neiges Free Fall, prends quelques instants pour lui attribuer une note.</entry>
+<entry name="GAME_SECONDS">Secondes</entry>
+<entry name="LOSE_DROP_TILES">Tu n&apos;as pas fait
+descendre tous les
+objets spéciaux.</entry>
+<entry name="CARROT">Carotte</entry>
+<entry name="HOT_CHOCOLATE_DESCRIPTION">Le chocolat chaud a
+un certain effet...</entry>
+<entry name="HELP_FUN">Bonne chance !</entry>
+<entry name="LEVEL_OBJECTIVE">Objectif :</entry>
+<entry name="RETRY">Réessayer niv.</entry>
+<entry name="UNLOCK_ELSA_GLACIER">Bravo ! Tu as débloqué
+Elsa et son bonus,
+le glacier !</entry>
+<entry name="PURCHASES_WARNING_TITLE">Avertissement</entry>
+<entry name="ICE_PICK">Pic à glace</entry>
+<entry name="CONTINUE">Continuer</entry>
+<entry name="SNOWBALL">Boule de neige</entry>
+<entry name="NO_MORE_MOVES">Plus de coup possible.
+Utilise donc un bonus !</entry>
+<entry name="FACEBOOK_LOGOUT">Déconnex.</entry>
+<entry name="MORE_DISNEY">Plus de Disney</entry>
+<entry name="TORCH">Torche</entry>
+<entry name="MAP_OBJECTIVE_DROP_TILES">Objets en bas</entry>
+<entry name="LEVEL_TARGET">Cible :</entry>
+<entry name="BUY_ITEMS">Plus d&apos;objets</entry>
+<entry name="TUTORIAL_WINTERCHILL">Fais 4 associations
+d&apos;affilée pour créer un
+blizzard ! Associe-le
+pour détruire tous les
+cristaux sur son chemin.</entry>
+<entry name="GLACIER_DESCRIPTION">Le glacier détruit toutes
+les cases d&apos;une même
+couleur.</entry>
+<entry name="UNLOCK_HANS_SWORD">Bravo ! Tu as débloqué
+Hans et son bonus,
+l&apos;épée !</entry>
+<entry name="ABOUT_VISIT">Rends-toi sur le site : 
+http://disney.go.com/index</entry>
+<entry name="STORE_WAITING_TEXT">En attente de la boutique...</entry>
+<entry name="TUTORIAL_LOCKED_TILE">Pour détruire la case
+verrouillée, associe-la
+à 2 cristaux de même
+couleur.</entry>
+<entry name="SNOWBALL_DESCRIPTION">1 boule de neige
+=
+5 coups</entry>
+<entry name="RESET_CONFIRMATION">Réinitialiser toute progression ?</entry>
+<entry name="TUTORIAL_TROLL_MAGIC_ITEM">Touche le sort de troll
+de GrandPabbie pour
+faire apparaître un objet
+aléatoire. &lt;TOKEN&gt;</entry>
+<entry name="TUTORIAL_FREE_HOURGLASSES">Tu as 2 sabliers à
+essayer gratuitement !</entry>
+<entry name="UNLOCK_ICE_PICK">Bravo ! Tu as débloqué
+le pic à glace !</entry>
+<entry name="LEVEL_CHOOSE_COMPANION">Choisir compagnon</entry>
+<entry name="STORE_FAILED_TITLE">Échec</entry>
+<entry name="OUT_OF_LIVES">Remplir vies</entry>
+<entry name="FINISH_GAME_MESSAGE">Tu as fini tous les
+niveaux ! D&apos;autres
+arriveront BIENTÔT !</entry>
+<entry name="TUTORIAL_TORCH_ITEM">Touche la torche d&apos;Anna,
+puis choisis 8 cristaux
+adjacents pour les
+détruire. &lt;TOKEN&gt;</entry>
+<entry name="MAP_OBJECTIVE_SNOW">Retire la neige</entry>
+<entry name="PURCHASES_WARNING">Dans La Reine des Neiges
+Free Fall, vous pouvez acheter
+des éléments de jeu à l&apos;aide
+d&apos;argent réel. Le montant sera
+débité de votre compte iTunes.
+Vous pouvez bloquer les achats
+intégrés dans les paramètres
+de votre appareil.</entry>
+<entry name="MUSIC">Musique :</entry>
+<entry name="HOME">Accueil</entry>
+<entry name="TUTORIAL_GLACIER_ITEM">Touche le glacier d&apos;Elsa
+et choisis un cristal pour
+briser les cristaux de même
+couleur. &lt;TOKEN&gt;</entry>
+<entry name="CREDITS_DISNEY">DISNEY</entry>
+<entry name="BUTTON_OK">OK</entry>
+<entry name="TORCH_DESCRIPTION">La torche détruit
+8 cases adjacentes
+de ton choix.</entry>
+<entry name="TUTORIAL_FROST">Pour détruire le givre,
+fais une association
+par-dessus. Essaie de faire
+disparaître tout le
+givre de la grille !</entry>
+<entry name="HOT_CHOCOLATES">Chocolats</entry>
+<entry name="MAP_OBJECTIVE_SCORE_TIME">Défi chrono</entry>
+<entry name="APP_RATE_BUTTON_CANCEL">Rappeler plus tard</entry>
+<entry name="APP_RATE_BUTTON_RATE">Noter cette app</entry>
+<entry name="ICE_AXES">Haches</entry>
+<entry name="RESET_PROGRESS">Réinitialiser</entry>
+<entry name="LOSE_CONTINUE_TIME">Utiliser 1 sablier
+(+15 secondes)
+pour continuer ?</entry>
+<entry name="NO">Non</entry>
+<entry name="UNLOCK_ANNA_TORCH">Bravo ! Tu as débloqué
+Anna et son bonus,
+la torche !</entry>
+<entry name="TUTORIAL_MATCH_3">Fais glisser les cristaux
+pour en associer 3 de
+même couleur !</entry>
+<entry name="LOSE_FROST">Tu n&apos;as pas fait
+disparaître tout
+le givre.</entry>
+<entry name="HOT_CHOCOLATE">Chocolat chaud</entry>
+<entry name="MENU_PLAY">Jouer</entry>
+<entry name="UNLOCK_OLAF_HOT_CHOCOLATE">Bravo ! Tu as débloqué
+Olaf et son bonus,
+le chocolat chaud !</entry>
+<entry name="APP_RATE_TITLE">Donner une note à La Reine des Neiges Free Fall</entry>
+</entries>

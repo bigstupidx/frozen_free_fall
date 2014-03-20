@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{45E1ECFA-05FD-8E1E-56DE-517B8BDAABD8}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_ANDROID;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;UNITY_ANDROID_API;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_2_2;UNITY_4_2;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_OSX;UNITY_TEAM_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Kochava Demo\Kochava_Demo_JS.js" />
+     <Compile Include="Assets\Scripts\Effects\DeadTime.js" />
+     <Compile Include="Assets\Scripts\Effects\ExplosionObject_MG.js" />
+     <Compile Include="Assets\Scripts\Effects\ParticleSetting_MG.js" />
+     <Compile Include="Assets\Scripts\Effects\Randommove_MG.js" />
+     <Compile Include="Assets\Scripts\Effects\TailTransformer_MG.js" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lightmapped\2TextureBlending-VertexColor-Intensity.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\GUI\TextGlow.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
+     <None Include="Assets\Plugins\Android\res\values-fi\strings.xml" />
+     <None Include="Assets\Fonts\multiplier_font_01.fnt" />
+     <None Include="Assets\Plugins\Android\res\values-fa\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-hu\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\Blink.shader" />
+     <None Include="Assets\Photon Unity Networking\PlayMaker\ReleaseNotes.txt" />
+     <None Include="Assets\Plugins\Android\assets\ConsumeCodeInfo.xml" />
+     <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
+     <None Include="Assets\Plugins\Android\res\values-pt\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Opaque\Waves.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Particles\Additive-Culled-Overlay.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\share_weibo_layout.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\res\values-tr\strings.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
+     <None Include="Assets\Plugins\Android\res\values-lt\strings.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Plugins\Kochava\_LICENSE.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\GUI\Fill-Transparent-Alpha.shader" />
+     <None Include="Assets\Plugins\Android\res\values-ru\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\UnlitTransparentAlpha.shader" />
+     <None Include="Assets\PlayMaker\Readme.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Mask\DepthMask.shader" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_net_btn_selector.xml" />
+     <None Include="Assets\Plugins\Android\res\values-am\strings.xml" />
+     <None Include="Assets\Plugins\Kochava\_README.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\GUI - Text Shader (SoftClip).shader" />
+     <None Include="Assets\Plugins\Android\res\values-th\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\UnlitTransparentCullOff.shader" />
+     <None Include="Assets\Plugins\Android\res\values\colors.xml" />
+     <None Include="Assets\Plugins\Android\res\values-in\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-nl\strings.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest_bak.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Dynamic Font (AlphaClip).shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\Plugins\Android\res\values\g_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_btn_selector.xml" />
+     <None Include="Assets\Plugins\Android\res\values-fr\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Debug\Debug UV Channel 2.shader" />
+     <None Include="Assets\Plugins\Android\assets\ddo\ConsumerCodes.xml" />
+     <None Include="Assets\Plugins\FingerGestures\Readme.txt" />
+     <None Include="Assets\HOTween\readme.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Debug\Debug UV Channel 1.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
+     <None Include="Assets\Plugins\Android\res\values\version.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\zsht_authcode_style.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\layout_border.xml" />
+     <None Include="Assets\Plugins\InAppBillingAndroid\Manifest.xml" />
+     <None Include="Assets\Plugins\Android\res\values-v11\styles.xml" />
+     <None Include="Assets\Plugins\Android\res\values-sv\strings.xml" />
+     <None Include="Assets\Plugins\Flurry\ProjectApiKey.txt" />
+     <None Include="Assets\Plugins\Android\res\layout\activity_unity_test.xml" />
+     <None Include="Assets\Plugins\Android\res\values-da\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-hi\strings.xml" />
+     <None Include="Assets\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MADFINGER\MADFINGER-Unlit-Scroll2Layers-Sine-AlphaBlend.shader" />
+     <None Include="Assets\Plugins\Android\res\values-v14\styles.xml" />
+     <None Include="Assets\Plugins\Android\assets\Config.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (AlphaClip) .shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Debug\Debug Tangents.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\send_msg_dlg_layout.xml" />
+     <None Include="Assets\Plugins\Android\res\values-af\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-pl\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MADFINGER\MADFINGER-Lightmap-Unlit-VirtualVertexGlossy-Add.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />
+     <None Include="Assets\Plugins\AMPS\LibsIOS\README.txt" />
+     <None Include="Assets\Plugins\Android\res\values\g_strings_gamepad.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (AlphaClip).shader" />
+     <None Include="Assets\Localization\Resources\Languages\ZH_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\zsht_back_style.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MADFINGER\MADFINGER-god-rays.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\UnlitTransparentOverlay.shader" />
+     <None Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\library\Photon3Unity3D.xml" />
+     <None Include="Assets\Localization\Resources\Languages\IT_Sheet1.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\UnlitTransparentAlphaZWrite.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\SimpleVertexColor.shader" />
+     <None Include="Assets\Plugins\Android\res\values-pt-rPT\strings.xml" />
+     <None Include="Assets\Holoville\HOUnityEditor\Editor\HOEditorGUIFramework.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\activity_unicom_test.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\GUI\Fill-Transparent.shader" />
+     <None Include="Assets\Plugins\PlayGameServicesAndroid\Manifest.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\ColoredAlphaMask.shader" />
+     <None Include="Assets\Plugins\Android\res\values\maps_attrs.xml" />
+     <None Include="Assets\JCloudPlugin\README.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Opaque\VertexColor.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\SimpleVertexColorBatching.shader" />
+     <None Include="Assets\Plugins\Android\assets\CMGC\ConfigExtend.xml" />
+     <None Include="Assets\Plugins\Android\res\values\g_styles.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\LineRenderer-TransparentEnd.shader" />
+     <None Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\library\release_history.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (AlphaClip).shader" />
+     <None Include="Assets\Plugins\Android\assets\Charge.xml" />
+     <None Include="Assets\Plugins\Android\assets\ddo\ConsumerInfos.xml" />
+     <None Include="Assets\Plugins\Android\res\anim\zsht_loading.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\flow_test_pay_activity.xml" />
+     <None Include="Assets\Plugins\Android\res\values-ro\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-ja\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\GUI - Text Shader (AlphaClip).shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Painting\Brush-Transparent.shader" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_btn_friend_enter.xml" />
+     <None Include="Assets\PlayMaker ArrayMaker\readme.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\Mobile Transparent Vertex Color ZWriteOn.shader" />
+     <None Include="Assets\NGUI\Examples\Atlases\Fantasy\Fantasy Font - Normal.txt" />
+     <None Include="Assets\Plugins\Android\res\values-uk\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-sk\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_btn_enter_selector.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Particles\Additive.shader" />
+     <None Include="Assets\Plugins\Android\assets\ddo\channel.xml" />
+     <None Include="Assets\Plugins\Android\res\menu\main.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\Glass-Stained-BumpDistortAlpha.shader" />
+     <None Include="Assets\Plugins\AMPS\LibsAndroid\README.txt" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Normal.txt" />
+     <None Include="Assets\Plugins\Android\res\values-zh-rCN\strings.xml" />
+     <None Include="Assets\Localization\Resources\Languages\TW_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\values-iw\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lightmapped\SpecularBumped.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Opaque\SingleTexture-CullOff.shader" />
+     <None Include="Assets\Plugins\Android\res\values-de\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\UnlitCutoutCullOff.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\sdk_user_activity.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\egame_fee_btn_selector.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\VertexColor.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Dynamic Font (SoftClip).shader" />
+     <None Include="Assets\Plugins\Android\assets\premessable.txt" />
+     <None Include="Assets\Plugins\Android\res\values-sl\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-tl\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_leaderboard_btn_selector.xml" />
+     <None Include="Assets\Localization\Resources\Languages\FR_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\menu\unity_test.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest_backup.xml" />
+     <None Include="Assets\Plugins\Android\res\values-zu\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Debug\Debug Binormals.shader" />
+     <None Include="Assets\Plugins\Android\res\values-it\strings.xml" />
+     <None Include="Assets\Localization\README.txt" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\AlphaMaskWithDetail.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\GUI\RadialFeather.shader" />
+     <None Include="Assets\Plugins\Android\res\values-es\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values\dimens.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\egame_fee_one_confirm_layout.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\Glitch.shader" />
+     <None Include="Assets\Plugins\Android\res\values-sw\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (SoftClip).shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\SimpleVertexColorCubemap.shader" />
+     <None Include="Assets\Plugins\Android\res\values-cs\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored (SoftClip).shader" />
+     <None Include="Assets\Plugins\Android\res\layout\flow_test_login_activity.xml" />
+     <None Include="Assets\Plugins\Android\res\values\g_strings_leaderboard.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\VertexColor-AlphaTest.shader" />
+     <None Include="Assets\Plugins\Android\res\values-bg\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
+     <None Include="Assets\Plugins\Android\res\values-et-rEE\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\Blur.shader" />
+     <None Include="Assets\Plugins\Android\res\values-el\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-es-rUS\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Dynamic Font.shader" />
+     <None Include="Assets\Plugins\Android\res\values-en-rGB\strings.xml" />
+     <None Include="Assets\NGUI\ReadMe - 2.6.3.txt" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Debug\Debug Normals.shader" />
+     <None Include="Assets\Plugins\Android\readme.txt" />
+     <None Include="Assets\Plugins\Android\res\values-lv\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored Overlay.shader" />
+     <None Include="Assets\Plugins\Android\res\values-ko\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\menu\unicom_test.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lit\Mobile Rim Lit.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Painting\Brush-Hulk.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\UnlitTransparentAlphaCullOff.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\main.xml" />
+     <None Include="Assets\Resources\Generic\Ice.shader" />
+     <None Include="Assets\NGUI\Examples\Other\English.txt" />
+     <None Include="Assets\NGUI\Examples\Other\French.txt" />
+     <None Include="Assets\Holoville\readme.txt" />
+     <None Include="Assets\Localization\Resources\Languages\DE_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\customnativedialog.xml" />
+     <None Include="Assets\Localization\Resources\Languages\RU_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\values-hr\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\TexturedAlphaMask.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed).shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Painting\Brush.shader" />
+     <None Include="Assets\Plugins\Android\_KOCHAVA_SAMPLE_AndroidManifest.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\SimpleVertexColorOverlay.shader" />
+     <None Include="Assets\Plugins\Android\res\values\styles.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Particles\Snow.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lightmapped\Specular.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\ColoredDetailAlphaMask.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lightmapped\SingleTexture.shader" />
+     <None Include="Assets\Plugins\Android\res\values-et\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_exit_btn_selector.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\dialognum.xml" />
+     <None Include="Assets\Plugins\Android\res\values-sr\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_btn_friend_selector.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Opaque\Mobile Rim Unlit.shader" />
+     <None Include="Assets\Plugins\Android\res\layout\sdk_welcome_activity.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lightmapped\2TextureBlending-VertexColor.shader" />
+     <None Include="Assets\Photon Unity Networking\readme.txt" />
+     <None Include="Assets\Plugins\Android\AndroidManifest_mobilegame.xml" />
+     <None Include="Assets\Plugins\Android\res\values-zh-rTW\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Lit\Mobile Vertex Colored Specular.shader" />
+     <None Include="Assets\Plugins\Android\res\values-ms\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\Mobile Transparent Vertex Color ZOffset.shader" />
+     <None Include="Assets\Plugins\Android\res\values-vi\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Additive Colored.shader" />
+     <None Include="Assets\Plugins\Android\res\drawable\zsht_button_style.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable\zsht_input_style.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\MobileTransparentVertexColorZWriteOnCullOff.shader" />
+     <None Include="Assets\Plugins\Android\res\values-nb\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-sw600dp\dimens.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
+     <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
+     <None Include="Assets\Plugins\Android\assets\ddo\ddo_strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values\g_color.xml" />
+     <None Include="Assets\Localization\Resources\Languages\PT_Sheet1.xml" />
+     <None Include="Assets\Localization\Resources\Languages\ES_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\values-sw720dp-land\dimens.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Particles\Additive-Culled.shader" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_back_btn_selector.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\Glass-Stained-BumpDistort.shader" />
+     <None Include="Assets\Plugins\Android\res\values-ca\strings.xml" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth.shader" />
+     <None Include="Assets\Plugins\Android\res\values-pt-rBR\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\dialog.xml" />
+     <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Normal.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Debug\Debug VertexColor.shader" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Opaque\2TextureBlending.shader" />
+     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (SoftClip).shader" />
+     <None Include="Assets\Localization\Resources\Languages\EN_Sheet1.xml" />
+     <None Include="Assets\Plugins\Android\res\layout\activity_main.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\diamond shader.shader" />
+     <None Include="Assets\Holoville\HOUnityEditor\Editor\HOEditorUtils.xml" />
+     <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
+     <None Include="Assets\PlayMaker\Versions\readme.txt" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Transparent\SimpleAlphaMask.shader" />
+     <None Include="Assets\Plugins\Android\res\values-ar\strings.xml" />
+     <None Include="Assets\PulseEngine\Shaders\MobilityGames\Unlit\Effects\Pixelate-Transparent.shader" />
+     <None Include="Assets\Plugins\Android\res\values-ms-rMY\strings.xml" />
+     <None Include="Assets\Plugins\Android\res\values-be\strings.xml" />
+     <None Include="Assets\Photon Unity Networking\changelog.txt" />
+     <None Include="Assets\Plugins\Android\res\layout\sdk_main_activity.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_sure_btn_selector.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_leaderboard_light_green_selector.xml" />
+     <None Include="Assets\Plugins\Android\res\drawable-hdpi\gc_leaderboard_gray_selector.xml" />
+ <Reference Include="Assets\HOTween\Plugins\HOTween">
+ <HintPath>Assets\HOTween\Plugins\HOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\library\Photon3Unity3D">
+ <HintPath>Assets\Photon Unity Networking\Plugins\PhotonNetwork\library\Photon3Unity3D.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\PlayMaker\PlayMaker">
+ <HintPath>Assets\PlayMaker\PlayMaker.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Plugins\P31RestKit">
+ <HintPath>Assets\Plugins\P31RestKit.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Plugins\Kochava\Scripts\JsonFx.Json">
+ <HintPath>Assets\Plugins\Kochava\Scripts\JsonFx.Json.dll</HintPath>
+ </Reference>
+ <Reference Include="Assets\Plugins\Zip\ICSharpCode.SharpZipLib">
+ <HintPath>Assets\Plugins\Zip\ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{6FEE3974-9B83-9BBA-1A18-33302BA82078}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
